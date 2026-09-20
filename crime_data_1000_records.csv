@@ -1,0 +1,1002 @@
+Crime_ID,FIR_No,Date,Time,Crime_Type,City,Area,Victim_Age,Victim_Gender,Weapon,Police_Station,Status
+C0001,FIR202500001,2025-02-21,08:05,Theft,Kakinada,Ramanayyapeta,20.0,Female,,West PS,Pending
+C0002,FIR202400002,2024-06-12,04:25,Assault,Kadapa,YV Street,53.0,Female,Stick,North PS,Solved
+C0003,FIR202500003,2025-09-03,12:05,Theft,Tirupati,Alipiri,18.0,Female,,East PS,Solved
+C0004,FIR202400004,2024-05-09,00:20,Theft,Vijayawada,Patamata,45.0,Female,,South PS,Pending
+C0005,FIR202400005,2024-12-17,16:35,Theft,Eluru,Ashok Nagar,31.0,Female,,Central PS,Pending
+C0006,FIR202500006,2025-06-17,21:30,Cyber Crime,Tirupati,Bairagipatteda,41.0,Male,,North PS,Solved
+C0007,FIR202400007,2024-06-23,10:25,Murder,Vizianagaram,RTC Complex,53.0,Female,Gun,Central PS,Pending
+C0008,FIR202400008,2024-01-17,06:45,Murder,Anantapur,Sapthagiri Circle,23.0,Female,Gun,Central PS,Pending
+C0009,FIR202500009,2025-10-16,09:35,Robbery,Tirupati,Alipiri,66.0,Male,Knife,West PS,Pending
+C0010,FIR202500010,2025-03-31,12:35,Robbery,Visakhapatnam,Seethammadhara,20.0,Male,Knife,North PS,Pending
+C0011,FIR202400011,2024-12-26,21:20,Robbery,Hyderabad,Madhapur,45.0,Female,Knife,Central PS,Solved
+C0012,FIR202500012,2025-12-25,02:05,Cyber Crime,Vijayawada,Gunadala,45.0,Male,,West PS,Pending
+C0013,FIR202400013,2024-01-30,10:20,Theft,Kurnool,Nandyal Checkpost,48.0,Male,,West PS,Pending
+C0014,FIR202500014,2025-10-16,20:10,Murder,Rajahmundry,Danavaipeta,44.0,Male,Gun,North PS,Pending
+C0015,FIR202500015,2025-10-04,01:40,Robbery,Ongole,Kurnool Road,42.0,Female,Knife,North PS,Pending
+C0016,FIR202500016,2025-07-01,10:40,Murder,Rajahmundry,Danavaipeta,25.0,Male,Gun,West PS,Pending
+C0017,FIR202400017,2024-05-19,14:50,Murder,Hyderabad,Hitech City,19.0,Female,Gun,East PS,Pending
+C0018,FIR202400018,2024-06-11,16:25,Assault,Tirupati,Alipiri,51.0,Male,Stick,South PS,Solved
+C0019,FIR202400019,2024-08-18,18:25,Cyber Crime,Ongole,Kurnool Road,23.0,Female,,West PS,Solved
+C0020,FIR202500020,2025-02-11,01:40,Robbery,Rajahmundry,Innespeta,23.0,Male,Knife,West PS,Solved
+C0021,FIR202500021,2025-08-01,07:05,Theft,Guntur,Arundelpet,56.0,Female,,Central PS,Pending
+C0022,FIR202500022,2025-07-01,04:35,Cyber Crime,Kurnool,Budhawarapeta,49.0,Female,,Central PS,Pending
+C0023,FIR202400023,2024-12-14,12:15,Cyber Crime,Kadapa,YV Street,50.0,Male,,West PS,Solved
+C0024,FIR202400024,2024-12-17,22:45,Cyber Crime,Anantapur,Sapthagiri Circle,25.0,Male,,South PS,Pending
+C0025,FIR202400025,2024-11-19,11:15,Assault,Vizianagaram,RTC Complex,67.0,Female,Stick,South PS,Solved
+C0026,FIR202500026,2025-02-28,12:40,Robbery,Tirupati,Alipiri,34.0,Male,Knife,West PS,Pending
+C0027,FIR202400027,2024-05-05,08:40,Assault,Vijayawada,Gunadala,70.0,Female,Stick,Central PS,Pending
+C0028,FIR202400028,2024-11-01,03:35,Theft,Anantapur,Sapthagiri Circle,54.0,Female,,North PS,Pending
+C0029,FIR202500029,2025-07-30,18:25,Assault,Kadapa,YV Street,33.0,Female,Stick,West PS,Pending
+C0030,FIR202400030,2024-05-06,00:30,Assault,Hyderabad,Kukatpally,60.0,Female,Stick,North PS,Pending
+C0031,FIR202500031,2025-07-08,04:25,Cyber Crime,Hyderabad,LB Nagar,41.0,Male,,West PS,Solved
+C0032,FIR202500032,2025-12-23,18:00,Murder,Kurnool,Nandyal Checkpost,38.0,Female,Gun,North PS,Solved
+C0033,FIR202500033,2025-03-02,11:30,Assault,Kakinada,Ramanayyapeta,20.0,Male,Stick,East PS,Solved
+C0034,FIR202500034,2025-06-21,05:55,Robbery,Hyderabad,Madhapur,51.0,Male,Knife,South PS,Pending
+C0035,FIR202500035,2025-06-24,02:05,Murder,Guntur,Arundelpet,46.0,Female,Gun,North PS,Solved
+C0036,FIR202400036,2024-04-23,01:45,Murder,Tirupati,Bairagipatteda,45.0,Female,Gun,West PS,Pending
+C0037,FIR202400037,2024-07-18,06:15,Robbery,Nellore,Magunta Layout,20.0,Male,Knife,North PS,Solved
+C0038,FIR202500038,2025-02-26,20:25,Murder,Hyderabad,Ameerpet,53.0,Male,Gun,Central PS,Solved
+C0039,FIR202400039,2024-07-09,09:05,Murder,Ongole,Kurnool Road,36.0,Female,Gun,North PS,Solved
+C0040,FIR202500040,2025-04-22,07:30,Assault,Eluru,Ashok Nagar,32.0,Female,Stick,East PS,Solved
+C0041,FIR202400041,2024-02-13,09:10,Murder,Vijayawada,Kanuru,48.0,Male,Gun,North PS,Solved
+C0042,FIR202500042,2025-07-19,19:00,Murder,Kadapa,YV Street,46.0,Female,Gun,South PS,Pending
+C0043,FIR202400043,2024-04-18,16:05,Robbery,Tirupati,Alipiri,55.0,Female,Knife,Central PS,Solved
+C0044,FIR202400044,2024-05-09,15:10,Murder,Visakhapatnam,Dwaraka Nagar,18.0,Male,Gun,Central PS,Pending
+C0045,FIR202400045,2024-08-12,14:30,Theft,Vijayawada,Patamata,30.0,Female,,Central PS,Solved
+C0046,FIR202500046,2025-12-13,02:10,Robbery,Vijayawada,Kanuru,60.0,Male,Knife,South PS,Pending
+C0047,FIR202400047,2024-08-28,13:25,Robbery,Kadapa,YV Street,60.0,Male,Knife,Central PS,Solved
+C0048,FIR202400048,2024-12-19,07:00,Assault,Rajahmundry,Innespeta,21.0,Male,Stick,Central PS,Solved
+C0049,FIR202500049,2025-07-24,00:45,Assault,Guntur,Brodipet,67.0,Female,Stick,East PS,Pending
+C0050,FIR202500050,2025-03-02,01:45,Assault,Vizianagaram,RTC Complex,36.0,Female,Stick,South PS,Solved
+C0051,FIR202500051,2025-10-24,09:05,Assault,Kurnool,Budhawarapeta,42.0,Male,Stick,West PS,Pending
+C0052,FIR202500052,2025-09-02,23:40,Murder,Kadapa,YV Street,30.0,Female,Gun,Central PS,Solved
+C0053,FIR202500053,2025-03-13,15:20,Robbery,Ongole,Kurnool Road,59.0,Male,Knife,East PS,Solved
+C0054,FIR202500054,2025-10-02,21:10,Assault,Ongole,Kurnool Road,67.0,Male,Stick,South PS,Solved
+C0055,FIR202400055,2024-04-13,08:05,Theft,Visakhapatnam,Seethammadhara,22.0,Female,,Central PS,Pending
+C0056,FIR202500056,2025-02-24,02:45,Assault,Visakhapatnam,Madhurawada,34.0,Male,Stick,West PS,Solved
+C0057,FIR202500057,2025-11-04,09:35,Assault,Kakinada,Jagannaickpur,33.0,Male,Stick,Central PS,Solved
+C0058,FIR202500058,2025-02-01,11:50,Cyber Crime,Vijayawada,Kanuru,29.0,Male,,East PS,Solved
+C0059,FIR202400059,2024-01-05,13:10,Murder,Guntur,Brodipet,69.0,Male,Gun,North PS,Pending
+C0060,FIR202400060,2024-11-08,02:00,Murder,Visakhapatnam,Dwaraka Nagar,25.0,Female,Gun,South PS,Solved
+C0061,FIR202400061,2024-11-13,09:45,Cyber Crime,Ongole,Kurnool Road,53.0,Female,,Central PS,Solved
+C0062,FIR202500062,2025-03-13,06:35,Assault,Kakinada,Ramanayyapeta,20.0,Female,Stick,Central PS,Solved
+C0063,FIR202500063,2025-07-17,07:05,Robbery,Vizianagaram,RTC Complex,46.0,Male,Knife,East PS,Pending
+C0064,FIR202400064,2024-08-09,02:35,Cyber Crime,Rajahmundry,Danavaipeta,20.0,Female,,Central PS,Solved
+C0065,FIR202400065,2024-04-10,22:00,Theft,Visakhapatnam,Seethammadhara,44.0,Female,,West PS,Pending
+C0066,FIR202500066,2025-10-20,21:30,Assault,Vizianagaram,RTC Complex,45.0,Male,Stick,Central PS,Solved
+C0067,FIR202500067,2025-12-23,21:45,Robbery,Visakhapatnam,Gajuwaka,37.0,Female,Knife,West PS,Pending
+C0068,FIR202400068,2024-07-07,17:40,Assault,Kakinada,Sarpavaram,60.0,Male,Stick,Central PS,Solved
+C0069,FIR202500069,2025-04-09,20:15,Cyber Crime,Eluru,Ashok Nagar,58.0,Female,,Central PS,Pending
+C0070,FIR202500070,2025-01-17,20:55,Assault,Eluru,Ashok Nagar,36.0,Female,Stick,North PS,Solved
+C0071,FIR202500071,2025-08-22,03:35,Theft,Rajahmundry,Danavaipeta,69.0,Female,,East PS,Solved
+C0072,FIR202400072,2024-08-25,18:30,Theft,Vizianagaram,RTC Complex,26.0,Male,,East PS,Solved
+C0073,FIR202400073,2024-11-18,19:50,Cyber Crime,Nellore,Balaji Nagar,44.0,Female,,South PS,Pending
+C0074,FIR202500074,2025-12-30,01:55,Robbery,Guntur,Brodipet,51.0,Male,Knife,South PS,Solved
+C0075,FIR202500075,2025-12-02,21:30,Robbery,Visakhapatnam,Gajuwaka,65.0,Male,Knife,West PS,Solved
+C0076,FIR202500076,2025-05-12,16:50,Cyber Crime,Vizianagaram,RTC Complex,18.0,Female,,North PS,Pending
+C0077,FIR202400077,2024-08-18,02:30,Assault,Vizianagaram,RTC Complex,65.0,Female,Stick,East PS,Pending
+C0078,FIR202500078,2025-03-02,22:05,Theft,Vizianagaram,RTC Complex,38.0,Female,,East PS,Solved
+C0079,FIR202400079,2024-12-27,11:25,Theft,Hyderabad,Hitech City,67.0,Male,,West PS,Pending
+C0080,FIR202500080,2025-11-12,07:00,Cyber Crime,Ongole,Kurnool Road,29.0,Male,,East PS,Solved
+C0081,FIR202400081,2024-12-22,20:10,Murder,Tirupati,Alipiri,35.0,Female,Gun,West PS,Pending
+C0082,FIR202400082,2024-02-18,03:40,Theft,Rajahmundry,Danavaipeta,26.0,Male,,West PS,Pending
+C0083,FIR202500083,2025-12-22,15:05,Cyber Crime,Tirupati,Bairagipatteda,69.0,Male,,North PS,Pending
+C0084,FIR202500084,2025-05-15,03:30,Robbery,Rajahmundry,Innespeta,22.0,Female,Knife,West PS,Pending
+C0085,FIR202400085,2024-04-01,22:05,Theft,Guntur,Arundelpet,41.0,Male,,North PS,Solved
+C0086,FIR202500086,2025-03-23,14:55,Theft,Tirupati,Bairagipatteda,20.0,Female,,Central PS,Solved
+C0087,FIR202500087,2025-01-20,23:25,Assault,Kurnool,Nandyal Checkpost,41.0,Female,Stick,Central PS,Pending
+C0088,FIR202400088,2024-01-28,14:30,Cyber Crime,Visakhapatnam,MVP Colony,50.0,Female,,Central PS,Solved
+C0089,FIR202400089,2024-06-04,10:45,Assault,Rajahmundry,Innespeta,48.0,Female,Stick,North PS,Solved
+C0090,FIR202400090,2024-07-31,10:15,Cyber Crime,Nellore,Magunta Layout,62.0,Female,,West PS,Solved
+C0091,FIR202400091,2024-07-20,14:35,Assault,Eluru,Ashok Nagar,68.0,Female,Stick,East PS,Pending
+C0092,FIR202500092,2025-03-22,23:20,Murder,Eluru,Ashok Nagar,23.0,Female,Gun,East PS,Solved
+C0093,FIR202500093,2025-01-26,18:45,Cyber Crime,Kadapa,YV Street,57.0,Male,,North PS,Solved
+C0094,FIR202500094,2025-06-05,14:50,Robbery,Ongole,Kurnool Road,57.0,Female,Knife,West PS,Solved
+C0095,FIR202400095,2024-08-31,22:30,Assault,Visakhapatnam,Seethammadhara,69.0,Male,Stick,West PS,Pending
+C0096,FIR202500096,2025-04-21,22:50,Cyber Crime,Vijayawada,Gunadala,26.0,Male,,South PS,Solved
+C0097,FIR202500097,2025-03-01,04:10,Robbery,Eluru,Ashok Nagar,47.0,Female,Knife,West PS,Solved
+C0098,FIR202400098,2024-10-30,06:45,Cyber Crime,Kadapa,YV Street,56.0,Male,,South PS,Solved
+C0099,FIR202400099,2024-07-04,05:25,Cyber Crime,Nellore,Magunta Layout,57.0,Male,,South PS,Solved
+C0100,FIR202400100,2024-12-21,06:05,Theft,Guntur,Brodipet,29.0,Female,,East PS,Solved
+C0101,FIR202500101,2025-09-12,21:15,Theft,Kurnool,Budhawarapeta,59.0,Male,,East PS,Solved
+C0102,FIR202400102,2024-06-23,14:10,Robbery,Vizianagaram,RTC Complex,55.0,Female,Knife,East PS,Solved
+C0103,FIR202500103,2025-03-19,13:55,Cyber Crime,Nellore,Balaji Nagar,56.0,Male,,West PS,Solved
+C0104,FIR202500104,2025-11-19,14:40,Robbery,Guntur,Arundelpet,27.0,Male,Knife,North PS,Solved
+C0105,FIR202400105,2024-04-06,09:50,Robbery,Nellore,Magunta Layout,29.0,Male,Knife,East PS,Pending
+C0106,FIR202500106,2025-09-27,13:55,Robbery,Kurnool,Budhawarapeta,22.0,Female,Knife,South PS,Pending
+C0107,FIR202500107,2025-09-24,06:15,Assault,Guntur,Brodipet,18.0,Male,Stick,East PS,Pending
+C0108,FIR202500108,2025-04-21,10:40,Murder,Vijayawada,Patamata,22.0,Female,Gun,West PS,Pending
+C0109,FIR202500109,2025-10-14,00:10,Theft,Eluru,Ashok Nagar,34.0,Female,,North PS,Pending
+C0110,FIR202400110,2024-04-29,22:35,Murder,Kadapa,YV Street,48.0,Female,Gun,South PS,Solved
+C0111,FIR202400111,2024-09-30,18:40,Robbery,Rajahmundry,Innespeta,23.0,Male,Knife,Central PS,Pending
+C0112,FIR202500112,2025-04-03,12:10,Assault,Kadapa,YV Street,29.0,Male,Stick,North PS,Pending
+C0113,FIR202400113,2024-05-27,21:40,Robbery,Ongole,Kurnool Road,33.0,Female,Knife,South PS,Pending
+C0114,FIR202500114,2025-01-10,12:40,Robbery,Kakinada,Jagannaickpur,62.0,Female,Knife,Central PS,Solved
+C0115,FIR202500115,2025-09-04,07:10,Murder,Guntur,Lakshmipuram,56.0,Female,Gun,East PS,Pending
+C0116,FIR202400116,2024-12-10,14:50,Theft,Vizianagaram,RTC Complex,21.0,Male,,Central PS,Pending
+C0117,FIR202400117,2024-07-05,15:10,Robbery,Eluru,Ashok Nagar,60.0,Male,Knife,North PS,Solved
+C0118,FIR202500118,2025-02-14,17:35,Robbery,Vizianagaram,RTC Complex,21.0,Female,Knife,West PS,Pending
+C0119,FIR202400119,2024-05-18,02:15,Assault,Eluru,Ashok Nagar,65.0,Female,Stick,South PS,Solved
+C0120,FIR202400120,2024-10-11,14:40,Assault,Visakhapatnam,Dwaraka Nagar,65.0,Female,Stick,West PS,Solved
+C0121,FIR202500121,2025-04-20,13:15,Theft,Guntur,Brodipet,24.0,Female,,Central PS,Pending
+C0122,FIR202400122,2024-01-21,22:05,Robbery,Guntur,Brodipet,22.0,Female,Knife,West PS,Pending
+C0123,FIR202400123,2024-11-28,12:50,Assault,Vizianagaram,RTC Complex,59.0,Male,Stick,West PS,Solved
+C0124,FIR202500124,2025-11-24,16:15,Robbery,Hyderabad,Hitech City,58.0,Female,Knife,South PS,Pending
+C0125,FIR202500125,2025-02-04,10:10,Assault,Visakhapatnam,Seethammadhara,33.0,Male,Stick,Central PS,Pending
+C0126,FIR202500126,2025-09-23,14:00,Robbery,Rajahmundry,Danavaipeta,63.0,Male,Knife,South PS,Solved
+C0127,FIR202500127,2025-11-02,03:10,Cyber Crime,Tirupati,Bairagipatteda,58.0,Male,,South PS,Pending
+C0128,FIR202400128,2024-07-26,18:25,Robbery,Nellore,Balaji Nagar,36.0,Female,Knife,West PS,Pending
+C0129,FIR202400129,2024-06-11,14:35,Murder,Rajahmundry,Innespeta,51.0,Male,Gun,North PS,Solved
+C0130,FIR202500130,2025-11-13,11:30,Murder,Ongole,Kurnool Road,61.0,Female,Gun,North PS,Solved
+C0131,FIR202500131,2025-10-28,07:10,Assault,Hyderabad,Kukatpally,57.0,Male,Stick,South PS,Solved
+C0132,FIR202500132,2025-06-10,12:30,Murder,Visakhapatnam,Seethammadhara,65.0,Male,Gun,Central PS,Solved
+C0133,FIR202500133,2025-11-15,05:15,Cyber Crime,Ongole,Kurnool Road,21.0,Female,,South PS,Pending
+C0134,FIR202500134,2025-02-10,17:05,Robbery,Vizianagaram,RTC Complex,52.0,Female,Knife,East PS,Solved
+C0135,FIR202400135,2024-12-01,07:25,Cyber Crime,Tirupati,Alipiri,52.0,Male,,North PS,Pending
+C0136,FIR202400136,2024-04-22,00:35,Assault,Eluru,Ashok Nagar,19.0,Male,Stick,East PS,Solved
+C0137,FIR202400137,2024-05-15,10:50,Robbery,Ongole,Kurnool Road,30.0,Female,Knife,North PS,Solved
+C0138,FIR202400138,2024-02-07,02:40,Robbery,Nellore,Magunta Layout,31.0,Female,Knife,South PS,Solved
+C0139,FIR202500139,2025-05-05,18:50,Robbery,Ongole,Kurnool Road,57.0,Male,Knife,Central PS,Pending
+C0140,FIR202500140,2025-11-06,23:25,Theft,Nellore,Magunta Layout,60.0,Male,,North PS,Pending
+C0141,FIR202500141,2025-07-23,04:15,Cyber Crime,Kurnool,Budhawarapeta,32.0,Male,,North PS,Solved
+C0142,FIR202400142,2024-04-07,07:15,Assault,Eluru,Ashok Nagar,18.0,Female,Stick,South PS,Pending
+C0143,FIR202400143,2024-11-15,00:05,Theft,Guntur,Lakshmipuram,62.0,Female,,Central PS,Pending
+C0144,FIR202500144,2025-04-22,19:15,Robbery,Rajahmundry,Innespeta,53.0,Female,Knife,East PS,Solved
+C0145,FIR202400145,2024-04-20,03:35,Theft,Eluru,Ashok Nagar,43.0,Male,,West PS,Solved
+C0146,FIR202400146,2024-12-21,23:10,Cyber Crime,Ongole,Kurnool Road,26.0,Male,,West PS,Pending
+C0147,FIR202400147,2024-01-19,02:20,Assault,Vijayawada,Kanuru,50.0,Male,Stick,South PS,Pending
+C0148,FIR202400148,2024-05-09,14:50,Murder,Rajahmundry,Danavaipeta,26.0,Female,Gun,West PS,Pending
+C0149,FIR202400149,2024-06-22,06:15,Murder,Vizianagaram,RTC Complex,68.0,Female,Gun,South PS,Solved
+C0150,FIR202500150,2025-04-01,12:15,Theft,Nellore,Magunta Layout,62.0,Female,,South PS,Pending
+C0151,FIR202500151,2025-11-15,17:45,Cyber Crime,Eluru,Ashok Nagar,53.0,Male,,West PS,Solved
+C0152,FIR202400152,2024-05-22,15:30,Murder,Vizianagaram,RTC Complex,26.0,Female,Gun,Central PS,Pending
+C0153,FIR202400153,2024-03-28,03:45,Robbery,Eluru,Ashok Nagar,55.0,Female,Knife,South PS,Solved
+C0154,FIR202400154,2024-10-29,02:15,Assault,Vizianagaram,RTC Complex,54.0,Male,Stick,West PS,Pending
+C0155,FIR202400155,2024-09-25,07:20,Assault,Tirupati,Alipiri,47.0,Male,Stick,East PS,Solved
+C0156,FIR202400156,2024-06-21,16:50,Robbery,Guntur,Lakshmipuram,37.0,Male,Knife,South PS,Solved
+C0157,FIR202400157,2024-12-31,07:30,Assault,Vijayawada,Kanuru,64.0,Female,Stick,North PS,Solved
+C0158,FIR202400158,2024-08-15,14:30,Assault,Kurnool,Budhawarapeta,28.0,Female,Stick,South PS,Pending
+C0159,FIR202500159,2025-03-28,07:00,Theft,Ongole,Kurnool Road,20.0,Female,,South PS,Solved
+C0160,FIR202400160,2024-07-17,14:10,Murder,Kadapa,YV Street,19.0,Male,Gun,Central PS,Solved
+C0161,FIR202400161,2024-03-01,02:15,Robbery,Eluru,Ashok Nagar,47.0,Female,Knife,West PS,Pending
+C0162,FIR202500162,2025-05-13,03:00,Robbery,Ongole,Kurnool Road,62.0,Female,Knife,North PS,Pending
+C0163,FIR202500163,2025-05-31,18:00,Cyber Crime,Vizianagaram,RTC Complex,52.0,Male,,North PS,Solved
+C0164,FIR202500164,2025-05-26,00:30,Assault,Eluru,Ashok Nagar,26.0,Female,Stick,West PS,Pending
+C0165,FIR202400165,2024-05-25,03:15,Cyber Crime,Nellore,Balaji Nagar,69.0,Female,,South PS,Solved
+C0166,FIR202400166,2024-07-27,09:35,Robbery,Rajahmundry,Danavaipeta,60.0,Female,Knife,Central PS,Pending
+C0167,FIR202500167,2025-01-25,03:45,Murder,Guntur,Brodipet,53.0,Female,Gun,South PS,Solved
+C0168,FIR202400168,2024-08-12,16:50,Robbery,Guntur,Brodipet,69.0,Male,Knife,North PS,Pending
+C0169,FIR202500169,2025-11-23,05:45,Murder,Kakinada,Jagannaickpur,24.0,Male,Gun,South PS,Pending
+C0170,FIR202400170,2024-01-15,10:50,Murder,Vizianagaram,RTC Complex,43.0,Female,Gun,West PS,Pending
+C0171,FIR202500171,2025-05-21,12:10,Cyber Crime,Kakinada,Sarpavaram,65.0,Male,,Central PS,Pending
+C0172,FIR202400172,2024-02-25,22:00,Theft,Rajahmundry,Danavaipeta,44.0,Male,,West PS,Solved
+C0173,FIR202500173,2025-01-09,18:20,Robbery,Kakinada,Jagannaickpur,54.0,Male,Knife,South PS,Solved
+C0174,FIR202400174,2024-11-04,09:20,Cyber Crime,Nellore,Magunta Layout,42.0,Male,,Central PS,Solved
+C0175,FIR202400175,2024-09-22,02:40,Assault,Ongole,Kurnool Road,31.0,Male,Stick,West PS,Pending
+C0176,FIR202400176,2024-10-17,08:25,Cyber Crime,Hyderabad,Kukatpally,52.0,Female,,South PS,Solved
+C0177,FIR202500177,2025-08-14,14:30,Cyber Crime,Guntur,Brodipet,33.0,Male,,North PS,Pending
+C0178,FIR202400178,2024-02-23,10:20,Murder,Anantapur,Sapthagiri Circle,51.0,Male,Gun,North PS,Pending
+C0179,FIR202500179,2025-12-11,11:25,Robbery,Vizianagaram,RTC Complex,38.0,Female,Knife,West PS,Solved
+C0180,FIR202400180,2024-11-30,08:15,Theft,Vizianagaram,RTC Complex,50.0,Female,,North PS,Pending
+C0181,FIR202400181,2024-11-27,21:35,Assault,Ongole,Kurnool Road,66.0,Female,Stick,East PS,Pending
+C0182,FIR202500182,2025-08-23,19:50,Murder,Nellore,Magunta Layout,24.0,Female,Gun,West PS,Solved
+C0183,FIR202500183,2025-05-20,02:20,Cyber Crime,Kadapa,YV Street,36.0,Male,,Central PS,Solved
+C0184,FIR202500184,2025-11-20,20:25,Murder,Rajahmundry,Danavaipeta,63.0,Male,Gun,North PS,Pending
+C0185,FIR202500185,2025-11-13,20:30,Theft,Tirupati,Alipiri,21.0,Female,,North PS,Solved
+C0186,FIR202400186,2024-06-12,05:00,Theft,Guntur,Lakshmipuram,59.0,Male,,West PS,Solved
+C0187,FIR202400187,2024-02-07,17:55,Theft,Guntur,Arundelpet,70.0,Male,,East PS,Pending
+C0188,FIR202400188,2024-02-18,04:30,Assault,Visakhapatnam,Madhurawada,33.0,Male,Stick,South PS,Solved
+C0189,FIR202500189,2025-07-18,23:45,Cyber Crime,Vijayawada,Benz Circle,23.0,Female,,North PS,Pending
+C0190,FIR202400190,2024-02-25,01:15,Cyber Crime,Tirupati,Bairagipatteda,22.0,Male,,Central PS,Pending
+C0191,FIR202400191,2024-03-25,09:45,Robbery,Guntur,Lakshmipuram,21.0,Female,Knife,East PS,Pending
+C0192,FIR202400192,2024-05-15,13:35,Murder,Kakinada,Ramanayyapeta,65.0,Male,Gun,Central PS,Pending
+C0193,FIR202500193,2025-01-24,10:25,Assault,Kurnool,Budhawarapeta,26.0,Female,Stick,Central PS,Solved
+C0194,FIR202500194,2025-04-22,16:20,Murder,Ongole,Kurnool Road,52.0,Female,Gun,South PS,Pending
+C0195,FIR202400195,2024-02-01,05:30,Cyber Crime,Vijayawada,Gunadala,44.0,Female,,East PS,Pending
+C0196,FIR202500196,2025-06-05,15:15,Assault,Eluru,Ashok Nagar,54.0,Female,Stick,South PS,Pending
+C0197,FIR202400197,2024-08-31,06:05,Theft,Kakinada,Sarpavaram,31.0,Female,,West PS,Pending
+C0198,FIR202500198,2025-04-03,10:00,Theft,Nellore,Magunta Layout,18.0,Female,,Central PS,Pending
+C0199,FIR202400199,2024-11-30,05:20,Theft,Tirupati,Alipiri,58.0,Male,,Central PS,Solved
+C0200,FIR202400200,2024-12-04,16:15,Cyber Crime,Vijayawada,Gunadala,57.0,Female,,East PS,Pending
+C0201,FIR202400201,2024-10-26,08:10,Robbery,Kurnool,Budhawarapeta,66.0,Female,Knife,South PS,Solved
+C0202,FIR202500202,2025-09-27,14:00,Theft,Vijayawada,Patamata,70.0,Male,,North PS,Pending
+C0203,FIR202500203,2025-03-14,03:20,Cyber Crime,Vijayawada,Gunadala,21.0,Male,,West PS,Solved
+C0204,FIR202500204,2025-01-17,11:45,Robbery,Rajahmundry,Innespeta,39.0,Female,Knife,West PS,Pending
+C0205,FIR202400205,2024-01-19,13:20,Assault,Kurnool,Budhawarapeta,21.0,Male,Stick,South PS,Pending
+C0206,FIR202500206,2025-01-21,04:10,Robbery,Rajahmundry,Innespeta,28.0,Female,Knife,South PS,Solved
+C0207,FIR202500207,2025-07-23,17:50,Murder,Nellore,Balaji Nagar,51.0,Female,Gun,South PS,Pending
+C0208,FIR202500208,2025-01-18,21:00,Cyber Crime,Guntur,Brodipet,29.0,Female,,Central PS,Solved
+C0209,FIR202400209,2024-07-29,07:55,Theft,Vijayawada,Patamata,47.0,Male,,Central PS,Solved
+C0210,FIR202400210,2024-01-16,19:40,Cyber Crime,Kurnool,Budhawarapeta,69.0,Male,,North PS,Solved
+C0211,FIR202500211,2025-09-19,06:35,Murder,Vizianagaram,RTC Complex,29.0,Male,Gun,Central PS,Pending
+C0212,FIR202500212,2025-12-22,22:05,Assault,Kadapa,YV Street,60.0,Female,Stick,East PS,Pending
+C0213,FIR202400213,2024-03-01,22:00,Assault,Anantapur,Sapthagiri Circle,58.0,Female,Stick,West PS,Pending
+C0214,FIR202500214,2025-12-07,19:40,Assault,Hyderabad,LB Nagar,38.0,Female,Stick,Central PS,Pending
+C0215,FIR202400215,2024-09-23,17:25,Assault,Guntur,Arundelpet,26.0,Male,Stick,East PS,Solved
+C0216,FIR202400216,2024-01-10,15:55,Robbery,Kadapa,YV Street,59.0,Female,Knife,West PS,Solved
+C0217,FIR202500217,2025-08-26,21:25,Murder,Vizianagaram,RTC Complex,63.0,Female,Gun,West PS,Pending
+C0218,FIR202500218,2025-06-24,10:40,Assault,Rajahmundry,Innespeta,38.0,Female,Stick,East PS,Solved
+C0219,FIR202500219,2025-09-29,00:55,Cyber Crime,Visakhapatnam,Seethammadhara,29.0,Female,,Central PS,Pending
+C0220,FIR202400220,2024-11-01,10:45,Assault,Kadapa,YV Street,24.0,Female,Stick,West PS,Solved
+C0221,FIR202400221,2024-01-05,15:20,Cyber Crime,Kakinada,Sarpavaram,22.0,Female,,North PS,Pending
+C0222,FIR202500222,2025-09-16,13:50,Theft,Kadapa,YV Street,23.0,Female,,North PS,Solved
+C0223,FIR202500223,2025-05-01,02:55,Cyber Crime,Guntur,Arundelpet,40.0,Male,,Central PS,Pending
+C0224,FIR202500224,2025-10-05,03:45,Cyber Crime,Rajahmundry,Innespeta,46.0,Male,,South PS,Solved
+C0225,FIR202500225,2025-09-01,23:30,Assault,Vijayawada,Gunadala,44.0,Male,Stick,South PS,Solved
+C0226,FIR202400226,2024-10-07,19:55,Theft,Rajahmundry,Innespeta,36.0,Male,,South PS,Solved
+C0227,FIR202400227,2024-11-03,04:00,Robbery,Nellore,Magunta Layout,55.0,Female,Knife,Central PS,Pending
+C0228,FIR202500228,2025-04-27,12:05,Theft,Vizianagaram,RTC Complex,22.0,Male,,West PS,Pending
+C0229,FIR202500229,2025-07-15,06:30,Assault,Tirupati,Alipiri,66.0,Female,Stick,East PS,Pending
+C0230,FIR202500230,2025-03-22,15:05,Robbery,Tirupati,Bairagipatteda,65.0,Female,Knife,East PS,Pending
+C0231,FIR202500231,2025-10-18,16:35,Robbery,Visakhapatnam,Dwaraka Nagar,51.0,Female,Knife,South PS,Solved
+C0232,FIR202500232,2025-05-14,18:05,Murder,Kurnool,Nandyal Checkpost,39.0,Female,Gun,Central PS,Pending
+C0233,FIR202500233,2025-11-22,22:05,Theft,Hyderabad,Ameerpet,37.0,Male,,North PS,Solved
+C0234,FIR202500234,2025-12-27,06:55,Robbery,Anantapur,Sapthagiri Circle,47.0,Male,Knife,East PS,Pending
+C0235,FIR202500235,2025-01-13,14:10,Theft,Kadapa,YV Street,22.0,Male,,North PS,Solved
+C0236,FIR202400236,2024-01-06,08:05,Assault,Ongole,Kurnool Road,30.0,Female,Stick,Central PS,Pending
+C0237,FIR202400237,2024-04-20,06:50,Murder,Kadapa,YV Street,56.0,Female,Gun,East PS,Pending
+C0238,FIR202400238,2024-03-25,09:05,Cyber Crime,Tirupati,Alipiri,33.0,Male,,South PS,Solved
+C0239,FIR202500239,2025-03-09,12:55,Robbery,Vizianagaram,RTC Complex,67.0,Female,Knife,North PS,Pending
+C0240,FIR202500240,2025-08-31,10:45,Assault,Rajahmundry,Innespeta,31.0,Female,Stick,North PS,Pending
+C0241,FIR202400241,2024-12-07,01:30,Assault,Tirupati,Bairagipatteda,41.0,Female,Stick,South PS,Pending
+C0242,FIR202400242,2024-04-29,12:00,Cyber Crime,Visakhapatnam,Gajuwaka,26.0,Male,,North PS,Pending
+C0243,FIR202500243,2025-05-09,10:20,Assault,Anantapur,Sapthagiri Circle,49.0,Female,Stick,North PS,Pending
+C0244,FIR202400244,2024-09-30,19:05,Assault,Nellore,Magunta Layout,60.0,Male,Stick,West PS,Solved
+C0245,FIR202400245,2024-08-23,07:55,Theft,Anantapur,Sapthagiri Circle,44.0,Male,,East PS,Solved
+C0246,FIR202500246,2025-10-11,10:10,Cyber Crime,Eluru,Ashok Nagar,60.0,Female,,West PS,Solved
+C0247,FIR202400247,2024-11-27,22:00,Assault,Rajahmundry,Danavaipeta,44.0,Female,Stick,South PS,Pending
+C0248,FIR202500248,2025-08-14,08:45,Robbery,Nellore,Magunta Layout,62.0,Male,Knife,North PS,Pending
+C0249,FIR202500249,2025-05-09,22:40,Theft,Vijayawada,Kanuru,53.0,Female,,North PS,Solved
+C0250,FIR202500250,2025-10-17,22:35,Cyber Crime,Kadapa,YV Street,56.0,Male,,West PS,Solved
+C0251,FIR202500251,2025-04-09,11:00,Robbery,Kadapa,YV Street,27.0,Female,Knife,Central PS,Pending
+C0252,FIR202500252,2025-02-25,22:15,Robbery,Kurnool,Nandyal Checkpost,44.0,Male,Knife,North PS,Pending
+C0253,FIR202400253,2024-11-24,16:05,Theft,Kadapa,YV Street,21.0,Female,,South PS,Solved
+C0254,FIR202500254,2025-10-18,05:50,Theft,Anantapur,Sapthagiri Circle,60.0,Female,,North PS,Pending
+C0255,FIR202500255,2025-06-30,11:00,Assault,Anantapur,Sapthagiri Circle,38.0,Female,Stick,Central PS,Solved
+C0256,FIR202500256,2025-03-14,07:20,Assault,Kadapa,YV Street,26.0,Male,Stick,East PS,Pending
+C0257,FIR202400257,2024-07-30,22:45,Robbery,Anantapur,Sapthagiri Circle,51.0,Female,Knife,West PS,Solved
+C0258,FIR202400258,2024-02-14,13:05,Cyber Crime,Eluru,Ashok Nagar,60.0,Female,,Central PS,Solved
+C0259,FIR202400259,2024-04-07,08:35,Murder,Ongole,Kurnool Road,35.0,Male,Gun,West PS,Pending
+C0260,FIR202500260,2025-11-08,05:45,Assault,Vizianagaram,RTC Complex,34.0,Male,Stick,Central PS,Pending
+C0261,FIR202500261,2025-04-30,03:00,Theft,Ongole,Kurnool Road,58.0,Female,,West PS,Pending
+C0262,FIR202500262,2025-07-27,01:50,Murder,Guntur,Brodipet,26.0,Male,Gun,East PS,Solved
+C0263,FIR202400263,2024-07-28,07:10,Theft,Kurnool,Budhawarapeta,55.0,Female,,North PS,Solved
+C0264,FIR202500264,2025-12-25,16:50,Cyber Crime,Eluru,Ashok Nagar,36.0,Male,,Central PS,Solved
+C0265,FIR202500265,2025-09-13,09:00,Murder,Ongole,Kurnool Road,66.0,Male,Gun,South PS,Solved
+C0266,FIR202500266,2025-05-07,06:40,Robbery,Nellore,Balaji Nagar,61.0,Male,Knife,Central PS,Pending
+C0267,FIR202400267,2024-04-20,01:20,Assault,Eluru,Ashok Nagar,68.0,Male,Stick,East PS,Solved
+C0268,FIR202400268,2024-06-08,03:40,Robbery,Guntur,Lakshmipuram,27.0,Female,Knife,West PS,Pending
+C0269,FIR202500269,2025-08-09,10:35,Assault,Vijayawada,Benz Circle,24.0,Male,Stick,South PS,Pending
+C0270,FIR202400270,2024-05-03,18:50,Robbery,Visakhapatnam,Seethammadhara,67.0,Female,Knife,East PS,Solved
+C0271,FIR202400271,2024-04-01,14:10,Murder,Kurnool,Budhawarapeta,64.0,Male,Gun,West PS,Pending
+C0272,FIR202500272,2025-04-19,00:35,Murder,Eluru,Ashok Nagar,21.0,Male,Gun,Central PS,Pending
+C0273,FIR202400273,2024-03-10,07:40,Theft,Kurnool,Nandyal Checkpost,28.0,Male,,West PS,Pending
+C0274,FIR202400274,2024-08-02,04:15,Robbery,Anantapur,Sapthagiri Circle,38.0,Male,Knife,East PS,Pending
+C0275,FIR202400275,2024-01-19,05:05,Cyber Crime,Anantapur,Sapthagiri Circle,31.0,Male,,North PS,Solved
+C0276,FIR202500276,2025-10-03,05:40,Theft,Hyderabad,LB Nagar,24.0,Female,,North PS,Pending
+C0277,FIR202500277,2025-12-28,01:00,Robbery,Eluru,Ashok Nagar,19.0,Male,Knife,South PS,Pending
+C0278,FIR202400278,2024-07-06,12:00,Murder,Visakhapatnam,Gajuwaka,52.0,Female,Gun,North PS,Solved
+C0279,FIR202500279,2025-01-18,23:45,Murder,Tirupati,Bairagipatteda,18.0,Male,Gun,West PS,Solved
+C0280,FIR202400280,2024-05-30,12:25,Murder,Kakinada,Sarpavaram,21.0,Male,Gun,South PS,Pending
+C0281,FIR202400281,2024-01-05,21:00,Assault,Rajahmundry,Innespeta,20.0,Male,Stick,Central PS,Pending
+C0282,FIR202500282,2025-08-16,04:40,Cyber Crime,Rajahmundry,Danavaipeta,22.0,Male,,South PS,Pending
+C0283,FIR202500283,2025-04-26,23:15,Theft,Kakinada,Ramanayyapeta,55.0,Female,,East PS,Solved
+C0284,FIR202400284,2024-08-05,02:10,Murder,Nellore,Balaji Nagar,43.0,Male,Gun,West PS,Solved
+C0285,FIR202500285,2025-06-24,21:30,Assault,Rajahmundry,Danavaipeta,35.0,Female,Stick,Central PS,Pending
+C0286,FIR202400286,2024-06-04,15:30,Cyber Crime,Tirupati,Alipiri,68.0,Male,,Central PS,Pending
+C0287,FIR202500287,2025-05-15,12:45,Murder,Kadapa,YV Street,38.0,Female,Gun,South PS,Pending
+C0288,FIR202500288,2025-10-14,06:00,Robbery,Kurnool,Budhawarapeta,21.0,Male,Knife,South PS,Solved
+C0289,FIR202500289,2025-05-03,11:30,Theft,Eluru,Ashok Nagar,41.0,Female,,East PS,Pending
+C0290,FIR202400290,2024-06-01,19:10,Theft,Anantapur,Sapthagiri Circle,26.0,Female,,West PS,Solved
+C0291,FIR202500291,2025-07-05,12:50,Theft,Visakhapatnam,Madhurawada,37.0,Male,,Central PS,Solved
+C0292,FIR202500292,2025-04-08,03:40,Cyber Crime,Kurnool,Nandyal Checkpost,67.0,Female,,East PS,Pending
+C0293,FIR202400293,2024-02-17,20:25,Cyber Crime,Vizianagaram,RTC Complex,63.0,Male,,East PS,Solved
+C0294,FIR202400294,2024-02-01,08:05,Cyber Crime,Vizianagaram,RTC Complex,44.0,Male,,Central PS,Pending
+C0295,FIR202500295,2025-04-02,08:50,Assault,Vijayawada,Patamata,46.0,Male,Stick,South PS,Pending
+C0296,FIR202400296,2024-01-04,21:55,Assault,Nellore,Magunta Layout,63.0,Male,Stick,Central PS,Solved
+C0297,FIR202400297,2024-11-10,12:15,Robbery,Rajahmundry,Danavaipeta,31.0,Female,Knife,Central PS,Solved
+C0298,FIR202500298,2025-03-14,06:35,Murder,Rajahmundry,Danavaipeta,59.0,Male,Gun,North PS,Solved
+C0299,FIR202500299,2025-01-26,00:40,Robbery,Anantapur,Sapthagiri Circle,62.0,Male,Knife,Central PS,Pending
+C0300,FIR202500300,2025-10-09,09:50,Theft,Vijayawada,Patamata,31.0,Male,,South PS,Pending
+C0301,FIR202500301,2025-11-10,05:40,Cyber Crime,Kakinada,Ramanayyapeta,53.0,Female,,North PS,Solved
+C0302,FIR202500302,2025-04-21,17:20,Assault,Tirupati,Alipiri,61.0,Male,Stick,Central PS,Pending
+C0303,FIR202500303,2025-12-17,22:00,Assault,Kadapa,YV Street,22.0,Male,Stick,South PS,Pending
+C0304,FIR202500304,2025-11-20,12:10,Theft,Kadapa,YV Street,57.0,Male,,Central PS,Solved
+C0305,FIR202400305,2024-10-01,00:35,Murder,Vijayawada,Gunadala,19.0,Female,Gun,East PS,Pending
+C0306,FIR202500306,2025-11-06,06:55,Murder,Hyderabad,LB Nagar,23.0,Female,Gun,South PS,Solved
+C0307,FIR202400307,2024-08-30,10:25,Cyber Crime,Rajahmundry,Innespeta,37.0,Male,,East PS,Pending
+C0308,FIR202400308,2024-01-17,13:55,Robbery,Hyderabad,Ameerpet,32.0,Male,Knife,West PS,Solved
+C0309,FIR202400309,2024-06-17,17:30,Murder,Hyderabad,LB Nagar,21.0,Female,Gun,Central PS,Solved
+C0310,FIR202400310,2024-01-16,07:15,Theft,Vijayawada,Kanuru,34.0,Female,,South PS,Pending
+C0311,FIR202500311,2025-06-24,12:55,Murder,Ongole,Kurnool Road,44.0,Female,Gun,East PS,Pending
+C0312,FIR202400312,2024-01-08,05:30,Cyber Crime,Kadapa,YV Street,29.0,Male,,South PS,Pending
+C0313,FIR202500313,2025-12-13,08:45,Theft,Anantapur,Sapthagiri Circle,55.0,Male,,Central PS,Solved
+C0314,FIR202500314,2025-10-16,03:25,Theft,Vizianagaram,RTC Complex,40.0,Male,,North PS,Pending
+C0315,FIR202500315,2025-05-21,07:30,Assault,Kadapa,YV Street,67.0,Male,Stick,East PS,Solved
+C0316,FIR202400316,2024-09-09,21:50,Robbery,Visakhapatnam,MVP Colony,30.0,Female,Knife,West PS,Pending
+C0317,FIR202500317,2025-11-17,02:15,Cyber Crime,Anantapur,Sapthagiri Circle,56.0,Female,,West PS,Pending
+C0318,FIR202500318,2025-06-28,15:50,Murder,Hyderabad,Madhapur,28.0,Female,Gun,East PS,Pending
+C0319,FIR202400319,2024-01-16,15:20,Robbery,Visakhapatnam,Seethammadhara,47.0,Female,Knife,South PS,Pending
+C0320,FIR202400320,2024-08-26,17:05,Murder,Hyderabad,Ameerpet,30.0,Female,Gun,North PS,Pending
+C0321,FIR202400321,2024-06-03,17:00,Murder,Vizianagaram,RTC Complex,38.0,Female,Gun,West PS,Pending
+C0322,FIR202400322,2024-12-09,13:20,Robbery,Eluru,Ashok Nagar,65.0,Female,Knife,South PS,Pending
+C0323,FIR202500323,2025-11-21,04:10,Theft,Visakhapatnam,Madhurawada,68.0,Male,,South PS,Pending
+C0324,FIR202400324,2024-02-13,12:30,Assault,Visakhapatnam,Gajuwaka,38.0,Male,Stick,North PS,Solved
+C0325,FIR202400325,2024-10-26,04:15,Cyber Crime,Guntur,Arundelpet,23.0,Male,,North PS,Solved
+C0326,FIR202500326,2025-12-13,05:55,Murder,Vijayawada,Kanuru,63.0,Female,Gun,Central PS,Pending
+C0327,FIR202500327,2025-09-02,14:00,Assault,Hyderabad,Hitech City,53.0,Female,Stick,North PS,Pending
+C0328,FIR202500328,2025-08-22,17:15,Assault,Kakinada,Jagannaickpur,48.0,Female,Stick,Central PS,Solved
+C0329,FIR202500329,2025-11-05,14:25,Murder,Guntur,Lakshmipuram,27.0,Female,Gun,East PS,Pending
+C0330,FIR202400330,2024-11-08,13:05,Assault,Visakhapatnam,Seethammadhara,47.0,Female,Stick,Central PS,Pending
+C0331,FIR202400331,2024-11-12,01:20,Assault,Vijayawada,Patamata,44.0,Male,Stick,West PS,Pending
+C0332,FIR202400332,2024-06-07,16:15,Cyber Crime,Ongole,Kurnool Road,29.0,Male,,Central PS,Pending
+C0333,FIR202500333,2025-02-22,05:05,Cyber Crime,Vizianagaram,RTC Complex,20.0,Female,,North PS,Solved
+C0334,FIR202500334,2025-01-26,14:05,Assault,Ongole,Kurnool Road,43.0,Male,Stick,East PS,Pending
+C0335,FIR202400335,2024-09-18,23:35,Cyber Crime,Nellore,Balaji Nagar,30.0,Female,,South PS,Solved
+C0336,FIR202500336,2025-07-18,22:05,Cyber Crime,Hyderabad,Begumpet,37.0,Male,,Central PS,Solved
+C0337,FIR202500337,2025-09-27,17:25,Robbery,Kakinada,Jagannaickpur,57.0,Female,Knife,Central PS,Pending
+C0338,FIR202500338,2025-06-02,14:55,Murder,Tirupati,Alipiri,36.0,Male,Gun,West PS,Pending
+C0339,FIR202500339,2025-04-09,15:25,Theft,Kurnool,Budhawarapeta,21.0,Male,,West PS,Solved
+C0340,FIR202400340,2024-02-05,10:25,Robbery,Nellore,Magunta Layout,41.0,Female,Knife,West PS,Pending
+C0341,FIR202400341,2024-08-04,12:45,Robbery,Ongole,Kurnool Road,66.0,Female,Knife,Central PS,Solved
+C0342,FIR202500342,2025-02-02,23:05,Robbery,Kurnool,Nandyal Checkpost,56.0,Female,Knife,West PS,Pending
+C0343,FIR202400343,2024-11-10,12:55,Assault,Guntur,Brodipet,51.0,Male,Stick,East PS,Solved
+C0344,FIR202500344,2025-04-15,00:55,Assault,Anantapur,Sapthagiri Circle,62.0,Female,Stick,Central PS,Solved
+C0345,FIR202500345,2025-12-04,07:00,Murder,Tirupati,Alipiri,36.0,Male,Gun,North PS,Pending
+C0346,FIR202400346,2024-07-27,10:50,Theft,Hyderabad,Ameerpet,22.0,Male,,East PS,Pending
+C0347,FIR202500347,2025-04-10,16:30,Robbery,Kadapa,YV Street,25.0,Male,Knife,South PS,Solved
+C0348,FIR202500348,2025-03-24,06:10,Theft,Vizianagaram,RTC Complex,53.0,Male,,West PS,Solved
+C0349,FIR202400349,2024-09-30,06:00,Assault,Hyderabad,Begumpet,27.0,Female,Stick,Central PS,Pending
+C0350,FIR202500350,2025-07-26,00:35,Assault,Hyderabad,Kukatpally,39.0,Male,Stick,Central PS,Pending
+C0351,FIR202500351,2025-06-30,08:50,Theft,Eluru,Ashok Nagar,22.0,Male,,North PS,Solved
+C0352,FIR202500352,2025-08-25,06:50,Assault,Kurnool,Nandyal Checkpost,62.0,Male,Stick,North PS,Solved
+C0353,FIR202400353,2024-08-23,17:50,Assault,Vijayawada,Benz Circle,30.0,Female,Stick,East PS,Solved
+C0354,FIR202500354,2025-07-09,00:10,Theft,Anantapur,Sapthagiri Circle,46.0,Male,,East PS,Solved
+C0355,FIR202400355,2024-04-17,22:35,Murder,Vizianagaram,RTC Complex,46.0,Male,Gun,North PS,Pending
+C0356,FIR202400356,2024-10-28,23:25,Assault,Rajahmundry,Danavaipeta,34.0,Male,Stick,West PS,Solved
+C0357,FIR202500357,2025-10-18,22:55,Murder,Nellore,Magunta Layout,48.0,Male,Gun,Central PS,Pending
+C0358,FIR202500358,2025-03-13,15:15,Assault,Rajahmundry,Innespeta,29.0,Female,Stick,North PS,Pending
+C0359,FIR202400359,2024-08-31,05:15,Theft,Visakhapatnam,Madhurawada,57.0,Female,,North PS,Pending
+C0360,FIR202400360,2024-08-10,08:20,Assault,Vijayawada,Gunadala,47.0,Male,Stick,Central PS,Pending
+C0361,FIR202400361,2024-12-06,08:50,Robbery,Kakinada,Jagannaickpur,62.0,Female,Knife,North PS,Solved
+C0362,FIR202400362,2024-06-21,09:50,Murder,Ongole,Kurnool Road,53.0,Female,Gun,Central PS,Pending
+C0363,FIR202500363,2025-07-05,08:00,Murder,Ongole,Kurnool Road,36.0,Male,Gun,East PS,Solved
+C0364,FIR202400364,2024-04-30,04:45,Theft,Visakhapatnam,Madhurawada,34.0,Male,,East PS,Solved
+C0365,FIR202500365,2025-09-24,17:35,Theft,Vizianagaram,RTC Complex,51.0,Female,,South PS,Solved
+C0366,FIR202500366,2025-01-15,05:35,Theft,Hyderabad,Gachibowli,65.0,Female,,West PS,Pending
+C0367,FIR202400367,2024-09-09,15:25,Theft,Vijayawada,Kanuru,45.0,Male,,East PS,Pending
+C0368,FIR202400368,2024-11-19,22:50,Cyber Crime,Kakinada,Jagannaickpur,47.0,Female,,Central PS,Pending
+C0369,FIR202400369,2024-07-03,16:10,Assault,Vizianagaram,RTC Complex,69.0,Male,Stick,West PS,Pending
+C0370,FIR202500370,2025-02-21,22:05,Assault,Rajahmundry,Innespeta,48.0,Female,Stick,Central PS,Pending
+C0371,FIR202500371,2025-02-03,03:45,Robbery,Kakinada,Sarpavaram,46.0,Male,Knife,South PS,Solved
+C0372,FIR202500372,2025-02-14,13:30,Robbery,Eluru,Ashok Nagar,19.0,Male,Knife,Central PS,Solved
+C0373,FIR202500373,2025-04-22,15:35,Robbery,Anantapur,Sapthagiri Circle,63.0,Female,Knife,East PS,Pending
+C0374,FIR202400374,2024-02-24,09:40,Cyber Crime,Vizianagaram,RTC Complex,52.0,Male,,North PS,Solved
+C0375,FIR202400375,2024-09-17,17:20,Assault,Nellore,Balaji Nagar,59.0,Female,Stick,Central PS,Pending
+C0376,FIR202400376,2024-11-15,12:40,Murder,Vijayawada,Benz Circle,69.0,Female,Gun,East PS,Solved
+C0377,FIR202400377,2024-03-01,12:45,Robbery,Anantapur,Sapthagiri Circle,65.0,Female,Knife,West PS,Pending
+C0378,FIR202400378,2024-08-12,20:20,Cyber Crime,Kadapa,YV Street,28.0,Male,,West PS,Solved
+C0379,FIR202400379,2024-03-06,23:15,Robbery,Kadapa,YV Street,26.0,Male,Knife,East PS,Pending
+C0380,FIR202400380,2024-10-10,07:05,Cyber Crime,Ongole,Kurnool Road,27.0,Female,,East PS,Solved
+C0381,FIR202400381,2024-09-22,16:45,Theft,Ongole,Kurnool Road,34.0,Male,,Central PS,Pending
+C0382,FIR202500382,2025-10-08,02:00,Cyber Crime,Kakinada,Sarpavaram,27.0,Male,,Central PS,Solved
+C0383,FIR202400383,2024-10-20,18:15,Cyber Crime,Anantapur,Sapthagiri Circle,26.0,Female,,Central PS,Solved
+C0384,FIR202400384,2024-07-06,23:25,Robbery,Ongole,Kurnool Road,23.0,Male,Knife,Central PS,Solved
+C0385,FIR202500385,2025-10-03,05:25,Assault,Visakhapatnam,Seethammadhara,19.0,Female,Stick,South PS,Pending
+C0386,FIR202500386,2025-09-01,07:35,Robbery,Guntur,Brodipet,63.0,Male,Knife,East PS,Pending
+C0387,FIR202500387,2025-04-23,03:50,Cyber Crime,Vijayawada,Kanuru,31.0,Male,,North PS,Solved
+C0388,FIR202400388,2024-08-30,13:30,Murder,Kadapa,YV Street,63.0,Male,Gun,East PS,Pending
+C0389,FIR202500389,2025-12-14,07:10,Murder,Eluru,Ashok Nagar,30.0,Male,Gun,South PS,Solved
+C0390,FIR202400390,2024-03-07,00:30,Theft,Vizianagaram,RTC Complex,41.0,Male,,North PS,Pending
+C0391,FIR202500391,2025-07-17,16:40,Murder,Eluru,Ashok Nagar,50.0,Male,Gun,East PS,Pending
+C0392,FIR202400392,2024-01-09,11:20,Assault,Vizianagaram,RTC Complex,63.0,Female,Stick,West PS,Solved
+C0393,FIR202400393,2024-11-10,11:20,Robbery,Anantapur,Sapthagiri Circle,24.0,Male,Knife,North PS,Pending
+C0394,FIR202400394,2024-12-01,02:40,Murder,Ongole,Kurnool Road,70.0,Female,Gun,East PS,Pending
+C0395,FIR202500395,2025-12-16,06:05,Cyber Crime,Vizianagaram,RTC Complex,50.0,Male,,North PS,Solved
+C0396,FIR202500396,2025-01-23,19:55,Theft,Vijayawada,Gunadala,62.0,Female,,Central PS,Pending
+C0397,FIR202400397,2024-07-17,12:15,Assault,Rajahmundry,Danavaipeta,29.0,Female,Stick,East PS,Pending
+C0398,FIR202500398,2025-06-03,15:30,Murder,Kurnool,Nandyal Checkpost,46.0,Female,Gun,East PS,Pending
+C0399,FIR202500399,2025-01-07,09:40,Assault,Kurnool,Nandyal Checkpost,31.0,Female,Stick,North PS,Solved
+C0400,FIR202400400,2024-08-23,17:50,Robbery,Guntur,Arundelpet,41.0,Female,Knife,North PS,Pending
+C0401,FIR202500401,2025-03-24,21:55,Theft,Rajahmundry,Danavaipeta,53.0,Female,,East PS,Pending
+C0402,FIR202400402,2024-10-23,19:35,Murder,Hyderabad,Gachibowli,31.0,Male,Gun,South PS,Solved
+C0403,FIR202500403,2025-04-28,11:25,Cyber Crime,Rajahmundry,Innespeta,26.0,Male,,Central PS,Solved
+C0404,FIR202400404,2024-07-14,01:50,Theft,Eluru,Ashok Nagar,24.0,Female,,East PS,Solved
+C0405,FIR202400405,2024-09-03,23:25,Theft,Ongole,Kurnool Road,26.0,Female,,North PS,Pending
+C0406,FIR202400406,2024-03-15,00:40,Theft,Hyderabad,Hitech City,46.0,Female,,South PS,Solved
+C0407,FIR202400407,2024-12-05,10:40,Assault,Kakinada,Jagannaickpur,60.0,Female,Stick,North PS,Pending
+C0408,FIR202400408,2024-01-28,21:40,Murder,Ongole,Kurnool Road,66.0,Female,Gun,West PS,Pending
+C0409,FIR202500409,2025-11-25,00:20,Murder,Hyderabad,Kukatpally,24.0,Female,Gun,Central PS,Pending
+C0410,FIR202400410,2024-05-09,19:40,Robbery,Kurnool,Budhawarapeta,63.0,Female,Knife,East PS,Solved
+C0411,FIR202400411,2024-02-04,12:40,Robbery,Anantapur,Sapthagiri Circle,48.0,Female,Knife,South PS,Pending
+C0412,FIR202500412,2025-06-24,18:20,Murder,Anantapur,Sapthagiri Circle,26.0,Male,Gun,Central PS,Solved
+C0413,FIR202400413,2024-09-09,08:30,Cyber Crime,Kadapa,YV Street,70.0,Male,,Central PS,Solved
+C0414,FIR202500414,2025-02-10,14:20,Robbery,Nellore,Balaji Nagar,68.0,Female,Knife,East PS,Solved
+C0415,FIR202400415,2024-09-30,20:45,Robbery,Kurnool,Nandyal Checkpost,55.0,Female,Knife,North PS,Solved
+C0416,FIR202500416,2025-07-03,19:00,Assault,Guntur,Brodipet,46.0,Female,Stick,Central PS,Solved
+C0417,FIR202400417,2024-01-14,23:10,Cyber Crime,Kadapa,YV Street,68.0,Male,,West PS,Pending
+C0418,FIR202500418,2025-02-08,22:10,Assault,Kakinada,Sarpavaram,63.0,Female,Stick,Central PS,Solved
+C0419,FIR202400419,2024-06-29,16:00,Theft,Visakhapatnam,Dwaraka Nagar,45.0,Female,,South PS,Pending
+C0420,FIR202400420,2024-01-11,01:25,Robbery,Kurnool,Budhawarapeta,29.0,Female,Knife,East PS,Solved
+C0421,FIR202500421,2025-03-17,09:05,Cyber Crime,Nellore,Magunta Layout,45.0,Male,,West PS,Pending
+C0422,FIR202500422,2025-06-02,21:30,Robbery,Hyderabad,LB Nagar,66.0,Male,Knife,Central PS,Solved
+C0423,FIR202400423,2024-01-01,09:55,Murder,Eluru,Ashok Nagar,31.0,Female,Gun,South PS,Pending
+C0424,FIR202400424,2024-07-15,12:20,Cyber Crime,Nellore,Magunta Layout,33.0,Female,,North PS,Pending
+C0425,FIR202400425,2024-07-17,20:45,Theft,Anantapur,Sapthagiri Circle,53.0,Male,,South PS,Pending
+C0426,FIR202400426,2024-12-15,05:30,Theft,Kadapa,YV Street,64.0,Male,,North PS,Solved
+C0427,FIR202500427,2025-05-27,17:20,Assault,Hyderabad,Gachibowli,22.0,Female,Stick,Central PS,Pending
+C0428,FIR202400428,2024-08-22,20:00,Theft,Tirupati,Bairagipatteda,21.0,Female,,Central PS,Solved
+C0429,FIR202400429,2024-07-27,15:20,Robbery,Nellore,Balaji Nagar,46.0,Female,Knife,Central PS,Solved
+C0430,FIR202400430,2024-03-14,10:35,Theft,Ongole,Kurnool Road,39.0,Female,,West PS,Solved
+C0431,FIR202400431,2024-09-22,13:45,Theft,Tirupati,Alipiri,19.0,Male,,West PS,Solved
+C0432,FIR202400432,2024-05-12,21:05,Assault,Guntur,Lakshmipuram,28.0,Male,Stick,East PS,Pending
+C0433,FIR202400433,2024-08-09,10:35,Assault,Guntur,Lakshmipuram,53.0,Male,Stick,Central PS,Pending
+C0434,FIR202400434,2024-05-24,07:55,Theft,Rajahmundry,Innespeta,37.0,Male,,South PS,Solved
+C0435,FIR202400435,2024-01-13,15:50,Robbery,Hyderabad,LB Nagar,35.0,Female,Knife,Central PS,Pending
+C0436,FIR202400436,2024-07-21,02:45,Murder,Anantapur,Sapthagiri Circle,46.0,Male,Gun,Central PS,Solved
+C0437,FIR202400437,2024-09-23,19:00,Assault,Rajahmundry,Innespeta,49.0,Male,Stick,North PS,Solved
+C0438,FIR202400438,2024-12-15,12:35,Theft,Hyderabad,Begumpet,65.0,Female,,Central PS,Pending
+C0439,FIR202400439,2024-05-30,22:00,Assault,Rajahmundry,Innespeta,61.0,Male,Stick,East PS,Pending
+C0440,FIR202400440,2024-08-30,13:05,Assault,Kakinada,Sarpavaram,20.0,Female,Stick,Central PS,Solved
+C0441,FIR202500441,2025-09-30,20:45,Assault,Nellore,Magunta Layout,26.0,Female,Stick,North PS,Solved
+C0442,FIR202500442,2025-07-26,23:00,Theft,Ongole,Kurnool Road,22.0,Female,,Central PS,Pending
+C0443,FIR202400443,2024-07-02,03:20,Robbery,Tirupati,Alipiri,50.0,Male,Knife,North PS,Pending
+C0444,FIR202400444,2024-01-22,07:40,Theft,Eluru,Ashok Nagar,66.0,Male,,Central PS,Solved
+C0445,FIR202400445,2024-10-22,20:20,Cyber Crime,Vijayawada,Kanuru,30.0,Female,,West PS,Pending
+C0446,FIR202400446,2024-11-21,21:50,Robbery,Visakhapatnam,Madhurawada,63.0,Male,Knife,West PS,Solved
+C0447,FIR202500447,2025-04-18,04:25,Robbery,Eluru,Ashok Nagar,22.0,Female,Knife,Central PS,Pending
+C0448,FIR202400448,2024-09-13,05:15,Murder,Hyderabad,LB Nagar,22.0,Female,Gun,South PS,Solved
+C0449,FIR202500449,2025-10-10,04:45,Cyber Crime,Ongole,Kurnool Road,41.0,Male,,South PS,Pending
+C0450,FIR202400450,2024-11-03,21:50,Robbery,Eluru,Ashok Nagar,69.0,Female,Knife,South PS,Pending
+C0451,FIR202400451,2024-12-16,12:10,Assault,Visakhapatnam,Dwaraka Nagar,20.0,Male,Stick,South PS,Pending
+C0452,FIR202500452,2025-07-05,08:50,Cyber Crime,Kadapa,YV Street,66.0,Female,,Central PS,Solved
+C0453,FIR202500453,2025-03-30,10:50,Murder,Visakhapatnam,MVP Colony,61.0,Female,Gun,East PS,Solved
+C0454,FIR202500454,2025-03-01,03:25,Cyber Crime,Tirupati,Alipiri,22.0,Male,,West PS,Solved
+C0455,FIR202500455,2025-05-16,09:15,Theft,Kurnool,Budhawarapeta,63.0,Female,,South PS,Pending
+C0456,FIR202500456,2025-04-14,04:30,Assault,Rajahmundry,Innespeta,47.0,Female,Stick,East PS,Pending
+C0457,FIR202500457,2025-08-19,03:30,Robbery,Nellore,Balaji Nagar,37.0,Male,Knife,West PS,Solved
+C0458,FIR202400458,2024-11-03,11:45,Theft,Hyderabad,LB Nagar,67.0,Female,,North PS,Pending
+C0459,FIR202500459,2025-11-11,15:00,Cyber Crime,Vizianagaram,RTC Complex,63.0,Male,,North PS,Pending
+C0460,FIR202400460,2024-06-22,21:35,Cyber Crime,Ongole,Kurnool Road,68.0,Female,,North PS,Pending
+C0461,FIR202500461,2025-03-19,04:15,Murder,Eluru,Ashok Nagar,36.0,Female,Gun,North PS,Pending
+C0462,FIR202400462,2024-05-24,19:55,Murder,Ongole,Kurnool Road,55.0,Female,Gun,South PS,Pending
+C0463,FIR202400463,2024-11-13,17:50,Cyber Crime,Guntur,Arundelpet,34.0,Female,,East PS,Solved
+C0464,FIR202500464,2025-06-12,00:55,Cyber Crime,Guntur,Lakshmipuram,37.0,Male,,South PS,Solved
+C0465,FIR202500465,2025-12-01,19:00,Cyber Crime,Hyderabad,Kukatpally,30.0,Male,,North PS,Pending
+C0466,FIR202500466,2025-08-03,15:50,Murder,Hyderabad,LB Nagar,64.0,Male,Gun,West PS,Pending
+C0467,FIR202500467,2025-04-10,13:15,Robbery,Visakhapatnam,Dwaraka Nagar,49.0,Female,Knife,East PS,Pending
+C0468,FIR202400468,2024-11-16,20:00,Assault,Ongole,Kurnool Road,47.0,Male,Stick,Central PS,Pending
+C0469,FIR202400469,2024-03-01,04:05,Murder,Vijayawada,Patamata,54.0,Female,Gun,Central PS,Solved
+C0470,FIR202500470,2025-03-08,12:05,Theft,Nellore,Balaji Nagar,20.0,Male,,South PS,Solved
+C0471,FIR202400471,2024-11-10,06:40,Cyber Crime,Visakhapatnam,MVP Colony,57.0,Female,,East PS,Pending
+C0472,FIR202500472,2025-01-26,11:55,Assault,Visakhapatnam,MVP Colony,42.0,Female,Stick,Central PS,Solved
+C0473,FIR202500473,2025-03-24,21:30,Robbery,Vijayawada,Patamata,34.0,Male,Knife,South PS,Pending
+C0474,FIR202400474,2024-10-14,20:20,Cyber Crime,Nellore,Balaji Nagar,51.0,Female,,North PS,Solved
+C0475,FIR202500475,2025-04-17,14:50,Robbery,Guntur,Brodipet,31.0,Female,Knife,East PS,Pending
+C0476,FIR202400476,2024-05-08,07:40,Cyber Crime,Kurnool,Budhawarapeta,65.0,Female,,West PS,Pending
+C0477,FIR202500477,2025-11-14,19:55,Theft,Anantapur,Sapthagiri Circle,70.0,Female,,Central PS,Solved
+C0478,FIR202500478,2025-08-15,16:00,Assault,Vizianagaram,RTC Complex,26.0,Male,Stick,Central PS,Solved
+C0479,FIR202400479,2024-12-03,19:45,Murder,Nellore,Balaji Nagar,63.0,Female,Gun,South PS,Solved
+C0480,FIR202400480,2024-07-16,20:45,Murder,Vizianagaram,RTC Complex,53.0,Male,Gun,West PS,Pending
+C0481,FIR202400481,2024-11-23,20:20,Robbery,Ongole,Kurnool Road,62.0,Male,Knife,West PS,Solved
+C0482,FIR202500482,2025-07-08,02:35,Robbery,Vizianagaram,RTC Complex,18.0,Female,Knife,East PS,Solved
+C0483,FIR202500483,2025-01-15,05:55,Robbery,Tirupati,Alipiri,62.0,Female,Knife,East PS,Pending
+C0484,FIR202500484,2025-02-03,00:50,Cyber Crime,Vijayawada,Gunadala,44.0,Female,,West PS,Pending
+C0485,FIR202500485,2025-12-28,18:20,Assault,Visakhapatnam,Dwaraka Nagar,68.0,Male,Stick,East PS,Solved
+C0486,FIR202400486,2024-08-07,04:10,Cyber Crime,Kakinada,Jagannaickpur,35.0,Female,,Central PS,Pending
+C0487,FIR202400487,2024-02-28,18:15,Assault,Ongole,Kurnool Road,53.0,Female,Stick,North PS,Pending
+C0488,FIR202400488,2024-06-16,15:30,Theft,Anantapur,Sapthagiri Circle,42.0,Male,,South PS,Pending
+C0489,FIR202500489,2025-10-26,04:05,Assault,Rajahmundry,Innespeta,69.0,Male,Stick,Central PS,Solved
+C0490,FIR202500490,2025-09-15,12:00,Robbery,Guntur,Brodipet,37.0,Male,Knife,Central PS,Solved
+C0491,FIR202500491,2025-01-16,16:30,Robbery,Vijayawada,Benz Circle,34.0,Female,Knife,North PS,Pending
+C0492,FIR202500492,2025-12-26,10:00,Assault,Kadapa,YV Street,37.0,Female,Stick,West PS,Solved
+C0493,FIR202500493,2025-04-26,18:35,Robbery,Guntur,Lakshmipuram,45.0,Male,Knife,West PS,Solved
+C0494,FIR202500494,2025-01-02,16:45,Robbery,Eluru,Ashok Nagar,63.0,Male,Knife,Central PS,Solved
+C0495,FIR202400495,2024-03-25,15:15,Robbery,Guntur,Arundelpet,49.0,Male,Knife,West PS,Pending
+C0496,FIR202500496,2025-01-26,03:10,Theft,Kakinada,Sarpavaram,40.0,Female,,Central PS,Solved
+C0497,FIR202500497,2025-03-08,05:10,Robbery,Eluru,Ashok Nagar,56.0,Female,Knife,Central PS,Pending
+C0498,FIR202400498,2024-02-01,01:20,Murder,Anantapur,Sapthagiri Circle,65.0,Male,Gun,East PS,Pending
+C0499,FIR202400499,2024-01-02,10:50,Murder,Rajahmundry,Innespeta,28.0,Male,Gun,West PS,Pending
+C0500,FIR202400500,2024-06-08,09:20,Cyber Crime,Visakhapatnam,Dwaraka Nagar,65.0,Male,,North PS,Solved
+C0501,FIR202500501,2025-09-24,14:20,Murder,Hyderabad,Ameerpet,48.0,Male,Gun,North PS,Solved
+C0502,FIR202500502,2025-08-23,04:15,Assault,Vizianagaram,RTC Complex,61.0,Female,Stick,North PS,Solved
+C0503,FIR202400503,2024-08-17,02:25,Murder,Eluru,Ashok Nagar,24.0,Male,Gun,West PS,Solved
+C0504,FIR202500504,2025-08-09,10:25,Assault,Kurnool,Budhawarapeta,47.0,Male,Stick,North PS,Pending
+C0505,FIR202400505,2024-03-20,21:30,Theft,Vizianagaram,RTC Complex,70.0,Female,,Central PS,Pending
+C0506,FIR202400506,2024-07-06,12:15,Robbery,Tirupati,Alipiri,62.0,Female,Knife,North PS,Solved
+C0507,FIR202500507,2025-09-07,01:15,Assault,Eluru,Ashok Nagar,50.0,Male,Stick,East PS,Pending
+C0508,FIR202400508,2024-07-18,07:15,Robbery,Ongole,Kurnool Road,53.0,Male,Knife,South PS,Pending
+C0509,FIR202500509,2025-02-05,22:25,Robbery,Rajahmundry,Danavaipeta,69.0,Female,Knife,East PS,Solved
+C0510,FIR202500510,2025-04-30,03:20,Robbery,Anantapur,Sapthagiri Circle,50.0,Female,Knife,Central PS,Pending
+C0511,FIR202500511,2025-06-13,15:45,Murder,Anantapur,Sapthagiri Circle,70.0,Female,Gun,East PS,Solved
+C0512,FIR202500512,2025-10-23,18:50,Cyber Crime,Anantapur,Sapthagiri Circle,41.0,Male,,North PS,Pending
+C0513,FIR202500513,2025-09-09,21:55,Murder,Vijayawada,Kanuru,31.0,Female,Gun,East PS,Pending
+C0514,FIR202400514,2024-07-31,05:00,Theft,Nellore,Magunta Layout,37.0,Female,,North PS,Pending
+C0515,FIR202500515,2025-09-05,19:50,Cyber Crime,Guntur,Lakshmipuram,65.0,Male,,North PS,Solved
+C0516,FIR202500516,2025-01-15,05:50,Robbery,Anantapur,Sapthagiri Circle,53.0,Female,Knife,East PS,Solved
+C0517,FIR202500517,2025-07-21,02:50,Theft,Rajahmundry,Danavaipeta,40.0,Male,,West PS,Pending
+C0518,FIR202500518,2025-06-30,17:30,Theft,Kadapa,YV Street,39.0,Male,,Central PS,Pending
+C0519,FIR202500519,2025-05-04,23:30,Assault,Ongole,Kurnool Road,62.0,Male,Stick,Central PS,Solved
+C0520,FIR202400520,2024-12-16,23:45,Assault,Hyderabad,Ameerpet,60.0,Male,Stick,East PS,Pending
+C0521,FIR202500521,2025-12-29,08:00,Murder,Kadapa,YV Street,37.0,Female,Gun,South PS,Solved
+C0522,FIR202400522,2024-10-30,09:35,Theft,Anantapur,Sapthagiri Circle,61.0,Female,,East PS,Pending
+C0523,FIR202500523,2025-05-24,15:20,Murder,Hyderabad,Begumpet,54.0,Female,Gun,Central PS,Pending
+C0524,FIR202500524,2025-06-26,23:00,Cyber Crime,Vijayawada,Kanuru,56.0,Male,,North PS,Solved
+C0525,FIR202400525,2024-09-02,19:00,Assault,Kadapa,YV Street,67.0,Female,Stick,East PS,Pending
+C0526,FIR202500526,2025-06-08,20:40,Cyber Crime,Ongole,Kurnool Road,63.0,Female,,Central PS,Pending
+C0527,FIR202400527,2024-02-16,07:25,Robbery,Visakhapatnam,Seethammadhara,39.0,Male,Knife,West PS,Solved
+C0528,FIR202400528,2024-04-11,01:00,Theft,Kadapa,YV Street,66.0,Male,,Central PS,Pending
+C0529,FIR202500529,2025-10-07,23:05,Assault,Vizianagaram,RTC Complex,35.0,Female,Stick,Central PS,Pending
+C0530,FIR202500530,2025-12-14,04:10,Assault,Kadapa,YV Street,62.0,Female,Stick,North PS,Pending
+C0531,FIR202400531,2024-01-01,21:45,Theft,Kadapa,YV Street,45.0,Male,,East PS,Pending
+C0532,FIR202400532,2024-05-19,00:50,Theft,Rajahmundry,Innespeta,36.0,Male,,West PS,Pending
+C0533,FIR202400533,2024-12-17,15:50,Murder,Nellore,Magunta Layout,63.0,Male,Gun,West PS,Pending
+C0534,FIR202500534,2025-10-29,12:50,Theft,Vijayawada,Patamata,54.0,Male,,North PS,Solved
+C0535,FIR202400535,2024-09-06,05:30,Theft,Guntur,Lakshmipuram,29.0,Female,,Central PS,Solved
+C0536,FIR202400536,2024-10-10,02:55,Theft,Kakinada,Jagannaickpur,26.0,Male,,Central PS,Solved
+C0537,FIR202500537,2025-05-18,10:40,Theft,Eluru,Ashok Nagar,51.0,Female,,Central PS,Solved
+C0538,FIR202500538,2025-12-25,15:45,Robbery,Ongole,Kurnool Road,51.0,Female,Knife,Central PS,Pending
+C0539,FIR202500539,2025-01-23,11:40,Cyber Crime,Guntur,Brodipet,34.0,Female,,West PS,Solved
+C0540,FIR202500540,2025-08-20,22:10,Cyber Crime,Eluru,Ashok Nagar,33.0,Female,,East PS,Pending
+C0541,FIR202500541,2025-11-09,16:55,Assault,Nellore,Magunta Layout,62.0,Male,Stick,West PS,Pending
+C0542,FIR202500542,2025-08-23,21:10,Murder,Nellore,Magunta Layout,57.0,Female,Gun,West PS,Pending
+C0543,FIR202500543,2025-10-23,21:45,Theft,Nellore,Balaji Nagar,35.0,Female,,South PS,Pending
+C0544,FIR202500544,2025-04-22,00:05,Cyber Crime,Eluru,Ashok Nagar,54.0,Male,,West PS,Solved
+C0545,FIR202400545,2024-01-25,01:25,Murder,Visakhapatnam,Madhurawada,24.0,Male,Gun,West PS,Solved
+C0546,FIR202400546,2024-11-23,00:10,Murder,Kakinada,Ramanayyapeta,25.0,Male,Gun,South PS,Pending
+C0547,FIR202500547,2025-09-30,07:35,Cyber Crime,Vijayawada,Kanuru,49.0,Male,,South PS,Solved
+C0548,FIR202500548,2025-04-29,03:25,Assault,Ongole,Kurnool Road,62.0,Male,Stick,Central PS,Pending
+C0549,FIR202500549,2025-07-10,20:55,Assault,Nellore,Magunta Layout,38.0,Female,Stick,West PS,Solved
+C0550,FIR202400550,2024-07-29,08:15,Robbery,Ongole,Kurnool Road,24.0,Male,Knife,North PS,Pending
+C0551,FIR202400551,2024-03-17,22:20,Murder,Vijayawada,Gunadala,23.0,Female,Gun,East PS,Pending
+C0552,FIR202400552,2024-04-21,13:55,Assault,Guntur,Brodipet,53.0,Female,Stick,West PS,Solved
+C0553,FIR202500553,2025-04-29,00:50,Murder,Kakinada,Sarpavaram,24.0,Male,Gun,West PS,Solved
+C0554,FIR202500554,2025-11-20,15:50,Assault,Vijayawada,Kanuru,37.0,Male,Stick,North PS,Solved
+C0555,FIR202400555,2024-04-01,15:15,Robbery,Kadapa,YV Street,42.0,Male,Knife,South PS,Pending
+C0556,FIR202400556,2024-04-14,10:05,Murder,Hyderabad,Gachibowli,23.0,Female,Gun,East PS,Solved
+C0557,FIR202500557,2025-07-29,08:15,Robbery,Kadapa,YV Street,55.0,Male,Knife,South PS,Solved
+C0558,FIR202400558,2024-07-02,11:30,Robbery,Visakhapatnam,Gajuwaka,69.0,Female,Knife,West PS,Pending
+C0559,FIR202500559,2025-08-24,06:15,Cyber Crime,Hyderabad,Begumpet,18.0,Female,,Central PS,Pending
+C0560,FIR202500560,2025-02-04,11:10,Cyber Crime,Eluru,Ashok Nagar,34.0,Female,,South PS,Pending
+C0561,FIR202400561,2024-11-27,14:10,Cyber Crime,Visakhapatnam,Gajuwaka,63.0,Male,,North PS,Solved
+C0562,FIR202400562,2024-08-06,04:00,Theft,Anantapur,Sapthagiri Circle,67.0,Male,,East PS,Pending
+C0563,FIR202400563,2024-09-22,06:00,Theft,Vijayawada,Patamata,52.0,Male,,Central PS,Solved
+C0564,FIR202500564,2025-03-03,06:50,Robbery,Visakhapatnam,Dwaraka Nagar,45.0,Female,Knife,Central PS,Solved
+C0565,FIR202500565,2025-08-07,23:55,Theft,Vizianagaram,RTC Complex,30.0,Female,,North PS,Solved
+C0566,FIR202400566,2024-05-24,22:55,Cyber Crime,Anantapur,Sapthagiri Circle,66.0,Female,,West PS,Solved
+C0567,FIR202500567,2025-01-09,10:10,Assault,Eluru,Ashok Nagar,24.0,Female,Stick,East PS,Solved
+C0568,FIR202500568,2025-05-15,00:00,Cyber Crime,Eluru,Ashok Nagar,19.0,Male,,East PS,Solved
+C0569,FIR202500569,2025-02-07,12:45,Theft,Kadapa,YV Street,64.0,Female,,North PS,Solved
+C0570,FIR202400570,2024-10-30,12:55,Assault,Visakhapatnam,Gajuwaka,23.0,Male,Stick,South PS,Solved
+C0571,FIR202400571,2024-03-21,10:00,Cyber Crime,Kakinada,Sarpavaram,55.0,Female,,East PS,Solved
+C0572,FIR202400572,2024-04-12,05:55,Assault,Hyderabad,LB Nagar,60.0,Male,Stick,West PS,Pending
+C0573,FIR202400573,2024-03-08,20:50,Murder,Kadapa,YV Street,48.0,Female,Gun,West PS,Solved
+C0574,FIR202400574,2024-04-29,08:15,Robbery,Anantapur,Sapthagiri Circle,34.0,Female,Knife,East PS,Pending
+C0575,FIR202500575,2025-06-25,11:55,Cyber Crime,Vizianagaram,RTC Complex,49.0,Male,,East PS,Solved
+C0576,FIR202500576,2025-10-21,20:15,Cyber Crime,Rajahmundry,Innespeta,60.0,Male,,South PS,Pending
+C0577,FIR202500577,2025-05-30,10:00,Assault,Tirupati,Bairagipatteda,39.0,Female,Stick,West PS,Pending
+C0578,FIR202500578,2025-12-07,07:30,Theft,Visakhapatnam,MVP Colony,33.0,Male,,Central PS,Pending
+C0579,FIR202400579,2024-01-15,04:15,Cyber Crime,Kakinada,Ramanayyapeta,21.0,Female,,South PS,Pending
+C0580,FIR202400580,2024-01-11,15:20,Murder,Kakinada,Jagannaickpur,42.0,Female,Gun,East PS,Solved
+C0581,FIR202500581,2025-01-07,22:00,Theft,Hyderabad,Ameerpet,48.0,Male,,South PS,Pending
+C0582,FIR202400582,2024-01-06,11:30,Cyber Crime,Guntur,Arundelpet,19.0,Female,,East PS,Solved
+C0583,FIR202400583,2024-10-09,14:15,Cyber Crime,Kurnool,Nandyal Checkpost,57.0,Female,,South PS,Pending
+C0584,FIR202400584,2024-08-29,19:35,Robbery,Nellore,Magunta Layout,64.0,Male,Knife,North PS,Solved
+C0585,FIR202500585,2025-12-01,00:00,Assault,Tirupati,Alipiri,22.0,Female,Stick,East PS,Solved
+C0586,FIR202500586,2025-01-01,22:05,Robbery,Kurnool,Nandyal Checkpost,58.0,Male,Knife,East PS,Pending
+C0587,FIR202400587,2024-03-14,15:45,Murder,Vizianagaram,RTC Complex,20.0,Female,Gun,South PS,Solved
+C0588,FIR202400588,2024-02-08,19:00,Theft,Guntur,Arundelpet,49.0,Female,,Central PS,Pending
+C0589,FIR202400589,2024-01-29,14:15,Assault,Anantapur,Sapthagiri Circle,50.0,Male,Stick,East PS,Solved
+C0590,FIR202500590,2025-11-23,20:10,Theft,Anantapur,Sapthagiri Circle,35.0,Female,,Central PS,Solved
+C0591,FIR202400591,2024-02-15,17:15,Robbery,Vijayawada,Gunadala,46.0,Male,Knife,North PS,Pending
+C0592,FIR202400592,2024-11-01,15:20,Assault,Kadapa,YV Street,64.0,Female,Stick,East PS,Pending
+C0593,FIR202400593,2024-08-24,09:10,Cyber Crime,Anantapur,Sapthagiri Circle,57.0,Male,,West PS,Solved
+C0594,FIR202400594,2024-02-19,03:15,Robbery,Guntur,Arundelpet,49.0,Female,Knife,East PS,Pending
+C0595,FIR202500595,2025-09-26,20:05,Assault,Vijayawada,Patamata,53.0,Male,Stick,West PS,Pending
+C0596,FIR202400596,2024-06-18,16:50,Murder,Vijayawada,Gunadala,53.0,Female,Gun,North PS,Solved
+C0597,FIR202500597,2025-12-12,19:20,Assault,Kurnool,Budhawarapeta,36.0,Female,Stick,North PS,Pending
+C0598,FIR202400598,2024-11-15,05:55,Assault,Kadapa,YV Street,49.0,Female,Stick,West PS,Solved
+C0599,FIR202500599,2025-02-21,03:00,Murder,Visakhapatnam,MVP Colony,36.0,Male,Gun,North PS,Solved
+C0600,FIR202500600,2025-07-06,20:05,Assault,Hyderabad,Kukatpally,44.0,Male,Stick,Central PS,Solved
+C0601,FIR202500601,2025-12-16,07:50,Theft,Vizianagaram,RTC Complex,44.0,Male,,North PS,Pending
+C0602,FIR202500602,2025-11-03,04:40,Murder,Eluru,Ashok Nagar,57.0,Female,Gun,South PS,Pending
+C0603,FIR202500603,2025-01-25,02:00,Robbery,Nellore,Balaji Nagar,62.0,Male,Knife,South PS,Solved
+C0604,FIR202500604,2025-09-19,07:10,Theft,Vizianagaram,RTC Complex,57.0,Female,,North PS,Solved
+C0605,FIR202400605,2024-11-05,00:15,Cyber Crime,Anantapur,Sapthagiri Circle,59.0,Male,,North PS,Solved
+C0606,FIR202500606,2025-02-06,20:00,Assault,Hyderabad,Hitech City,66.0,Female,Stick,East PS,Pending
+C0607,FIR202400607,2024-03-06,20:35,Robbery,Guntur,Brodipet,38.0,Male,Knife,South PS,Solved
+C0608,FIR202500608,2025-04-26,00:55,Cyber Crime,Hyderabad,LB Nagar,41.0,Male,,Central PS,Solved
+C0609,FIR202400609,2024-09-21,17:15,Theft,Eluru,Ashok Nagar,50.0,Female,,North PS,Solved
+C0610,FIR202400610,2024-05-16,14:35,Cyber Crime,Eluru,Ashok Nagar,25.0,Male,,South PS,Solved
+C0611,FIR202500611,2025-10-22,00:45,Theft,Eluru,Ashok Nagar,52.0,Female,,North PS,Solved
+C0612,FIR202400612,2024-08-12,20:50,Assault,Rajahmundry,Innespeta,50.0,Female,Stick,West PS,Solved
+C0613,FIR202400613,2024-04-26,08:35,Assault,Visakhapatnam,Gajuwaka,27.0,Female,Stick,East PS,Solved
+C0614,FIR202500614,2025-07-31,20:45,Robbery,Ongole,Kurnool Road,60.0,Female,Knife,West PS,Solved
+C0615,FIR202400615,2024-02-08,23:50,Robbery,Guntur,Brodipet,62.0,Male,Knife,North PS,Pending
+C0616,FIR202400616,2024-10-24,11:40,Robbery,Eluru,Ashok Nagar,45.0,Male,Knife,Central PS,Pending
+C0617,FIR202400617,2024-07-30,18:20,Murder,Kadapa,YV Street,41.0,Female,Gun,West PS,Solved
+C0618,FIR202500618,2025-03-26,06:05,Assault,Kadapa,YV Street,24.0,Male,Stick,West PS,Solved
+C0619,FIR202400619,2024-07-08,02:25,Robbery,Visakhapatnam,MVP Colony,32.0,Male,Knife,South PS,Pending
+C0620,FIR202500620,2025-11-20,23:40,Robbery,Nellore,Magunta Layout,68.0,Male,Knife,Central PS,Pending
+C0621,FIR202400621,2024-10-29,17:15,Assault,Kurnool,Budhawarapeta,28.0,Female,Stick,West PS,Pending
+C0622,FIR202400622,2024-11-03,06:20,Assault,Visakhapatnam,Gajuwaka,70.0,Female,Stick,East PS,Pending
+C0623,FIR202500623,2025-09-11,14:05,Theft,Kurnool,Nandyal Checkpost,55.0,Male,,North PS,Pending
+C0624,FIR202400624,2024-04-06,15:55,Cyber Crime,Kadapa,YV Street,68.0,Female,,West PS,Pending
+C0625,FIR202500625,2025-11-04,00:20,Theft,Guntur,Lakshmipuram,33.0,Male,,Central PS,Solved
+C0626,FIR202500626,2025-11-21,00:05,Murder,Kakinada,Sarpavaram,61.0,Male,Gun,West PS,Pending
+C0627,FIR202500627,2025-05-01,23:25,Murder,Kadapa,YV Street,67.0,Male,Gun,South PS,Pending
+C0628,FIR202400628,2024-03-18,14:00,Robbery,Kakinada,Sarpavaram,65.0,Male,Knife,North PS,Pending
+C0629,FIR202500629,2025-01-05,18:55,Cyber Crime,Hyderabad,LB Nagar,18.0,Female,,East PS,Pending
+C0630,FIR202400630,2024-06-07,00:00,Cyber Crime,Kakinada,Sarpavaram,56.0,Female,,Central PS,Pending
+C0631,FIR202400631,2024-12-01,11:35,Murder,Ongole,Kurnool Road,51.0,Male,Gun,East PS,Pending
+C0632,FIR202400632,2024-09-05,10:15,Assault,Eluru,Ashok Nagar,37.0,Male,Stick,East PS,Solved
+C0633,FIR202500633,2025-06-04,01:35,Assault,Kurnool,Budhawarapeta,68.0,Female,Stick,Central PS,Pending
+C0634,FIR202500634,2025-06-03,03:35,Assault,Rajahmundry,Innespeta,63.0,Male,Stick,West PS,Pending
+C0635,FIR202400635,2024-07-22,18:10,Cyber Crime,Visakhapatnam,Seethammadhara,32.0,Female,,North PS,Pending
+C0636,FIR202500636,2025-09-17,02:15,Cyber Crime,Anantapur,Sapthagiri Circle,39.0,Female,,North PS,Pending
+C0637,FIR202500637,2025-03-09,07:25,Murder,Anantapur,Sapthagiri Circle,66.0,Female,Gun,North PS,Pending
+C0638,FIR202400638,2024-06-15,10:00,Theft,Guntur,Lakshmipuram,62.0,Female,,North PS,Pending
+C0639,FIR202500639,2025-08-31,20:10,Cyber Crime,Kadapa,YV Street,30.0,Female,,North PS,Pending
+C0640,FIR202500640,2025-07-26,11:35,Assault,Visakhapatnam,Seethammadhara,47.0,Female,Stick,Central PS,Pending
+C0641,FIR202500641,2025-08-29,08:40,Robbery,Tirupati,Alipiri,31.0,Female,Knife,South PS,Pending
+C0642,FIR202400642,2024-10-19,01:05,Murder,Hyderabad,Begumpet,34.0,Female,Gun,North PS,Solved
+C0643,FIR202400643,2024-03-10,04:25,Cyber Crime,Rajahmundry,Innespeta,18.0,Male,,West PS,Solved
+C0644,FIR202500644,2025-05-28,11:55,Theft,Vizianagaram,RTC Complex,57.0,Female,,Central PS,Pending
+C0645,FIR202400645,2024-06-25,03:20,Theft,Kakinada,Jagannaickpur,63.0,Male,,East PS,Solved
+C0646,FIR202400646,2024-06-14,22:10,Murder,Vizianagaram,RTC Complex,27.0,Male,Gun,Central PS,Pending
+C0647,FIR202500647,2025-01-14,15:30,Assault,Eluru,Ashok Nagar,19.0,Male,Stick,East PS,Solved
+C0648,FIR202400648,2024-06-19,08:25,Assault,Kakinada,Jagannaickpur,57.0,Female,Stick,East PS,Pending
+C0649,FIR202400649,2024-03-13,15:10,Murder,Kakinada,Jagannaickpur,20.0,Female,Gun,South PS,Pending
+C0650,FIR202400650,2024-03-08,11:50,Murder,Vizianagaram,RTC Complex,44.0,Male,Gun,East PS,Pending
+C0651,FIR202500651,2025-07-15,11:55,Assault,Visakhapatnam,Gajuwaka,36.0,Male,Stick,Central PS,Solved
+C0652,FIR202500652,2025-01-03,17:35,Robbery,Guntur,Arundelpet,22.0,Male,Knife,South PS,Solved
+C0653,FIR202500653,2025-08-13,04:00,Theft,Kadapa,YV Street,19.0,Male,,North PS,Solved
+C0654,FIR202500654,2025-02-09,09:45,Assault,Tirupati,Alipiri,55.0,Male,Stick,Central PS,Pending
+C0655,FIR202400655,2024-03-22,14:50,Murder,Rajahmundry,Danavaipeta,38.0,Male,Gun,South PS,Solved
+C0656,FIR202400656,2024-02-21,20:50,Robbery,Eluru,Ashok Nagar,28.0,Female,Knife,South PS,Solved
+C0657,FIR202500657,2025-11-27,00:00,Assault,Vizianagaram,RTC Complex,23.0,Female,Stick,Central PS,Pending
+C0658,FIR202400658,2024-02-29,12:15,Theft,Vizianagaram,RTC Complex,67.0,Male,,West PS,Solved
+C0659,FIR202500659,2025-11-13,16:35,Robbery,Kadapa,YV Street,67.0,Female,Knife,West PS,Solved
+C0660,FIR202500660,2025-06-26,03:30,Theft,Ongole,Kurnool Road,36.0,Male,,East PS,Pending
+C0661,FIR202400661,2024-07-02,20:45,Cyber Crime,Rajahmundry,Danavaipeta,51.0,Female,,Central PS,Pending
+C0662,FIR202400662,2024-09-02,07:20,Cyber Crime,Nellore,Magunta Layout,23.0,Male,,South PS,Pending
+C0663,FIR202500663,2025-02-04,10:00,Assault,Vijayawada,Benz Circle,54.0,Female,Stick,West PS,Solved
+C0664,FIR202500664,2025-11-02,09:10,Cyber Crime,Kurnool,Nandyal Checkpost,54.0,Male,,North PS,Solved
+C0665,FIR202400665,2024-02-23,22:50,Murder,Eluru,Ashok Nagar,32.0,Female,Gun,West PS,Pending
+C0666,FIR202400666,2024-03-20,23:10,Murder,Kurnool,Nandyal Checkpost,37.0,Male,Gun,West PS,Solved
+C0667,FIR202500667,2025-10-11,20:45,Murder,Vizianagaram,RTC Complex,69.0,Male,Gun,South PS,Pending
+C0668,FIR202500668,2025-12-27,22:35,Cyber Crime,Anantapur,Sapthagiri Circle,34.0,Female,,Central PS,Pending
+C0669,FIR202500669,2025-03-28,19:00,Theft,Kakinada,Sarpavaram,24.0,Male,,Central PS,Solved
+C0670,FIR202400670,2024-05-18,15:00,Cyber Crime,Kakinada,Sarpavaram,65.0,Female,,East PS,Pending
+C0671,FIR202400671,2024-05-15,12:00,Murder,Ongole,Kurnool Road,50.0,Male,Gun,Central PS,Solved
+C0672,FIR202500672,2025-08-26,12:10,Theft,Visakhapatnam,Gajuwaka,37.0,Male,,West PS,Solved
+C0673,FIR202400673,2024-07-23,01:25,Assault,Kakinada,Jagannaickpur,36.0,Male,Stick,South PS,Pending
+C0674,FIR202400674,2024-03-24,23:45,Theft,Visakhapatnam,MVP Colony,63.0,Female,,West PS,Solved
+C0675,FIR202500675,2025-02-20,15:35,Assault,Anantapur,Sapthagiri Circle,64.0,Female,Stick,Central PS,Pending
+C0676,FIR202400676,2024-02-06,22:10,Assault,Tirupati,Alipiri,65.0,Male,Stick,North PS,Pending
+C0677,FIR202500677,2025-11-16,09:50,Cyber Crime,Vijayawada,Patamata,37.0,Female,,West PS,Solved
+C0678,FIR202500678,2025-08-25,12:35,Murder,Anantapur,Sapthagiri Circle,34.0,Male,Gun,Central PS,Solved
+C0679,FIR202400679,2024-05-30,02:55,Robbery,Hyderabad,Begumpet,61.0,Male,Knife,West PS,Pending
+C0680,FIR202500680,2025-01-19,20:15,Murder,Kadapa,YV Street,67.0,Male,Gun,North PS,Pending
+C0681,FIR202500681,2025-01-07,11:30,Theft,Nellore,Balaji Nagar,64.0,Male,,East PS,Pending
+C0682,FIR202500682,2025-08-30,12:10,Murder,Kakinada,Ramanayyapeta,63.0,Female,Gun,East PS,Pending
+C0683,FIR202400683,2024-10-19,01:10,Murder,Ongole,Kurnool Road,27.0,Female,Gun,East PS,Solved
+C0684,FIR202500684,2025-08-12,00:55,Cyber Crime,Kadapa,YV Street,25.0,Female,,Central PS,Pending
+C0685,FIR202500685,2025-08-17,12:30,Theft,Visakhapatnam,Seethammadhara,67.0,Male,,North PS,Solved
+C0686,FIR202400686,2024-04-05,02:10,Cyber Crime,Kurnool,Budhawarapeta,57.0,Male,,South PS,Pending
+C0687,FIR202400687,2024-06-11,19:40,Assault,Kurnool,Budhawarapeta,22.0,Female,Stick,North PS,Pending
+C0688,FIR202400688,2024-09-19,03:20,Assault,Tirupati,Alipiri,62.0,Male,Stick,South PS,Pending
+C0689,FIR202500689,2025-11-23,09:50,Robbery,Vijayawada,Kanuru,50.0,Female,Knife,West PS,Pending
+C0690,FIR202400690,2024-01-15,22:25,Murder,Rajahmundry,Innespeta,38.0,Male,Gun,Central PS,Pending
+C0691,FIR202400691,2024-12-26,14:05,Theft,Ongole,Kurnool Road,52.0,Male,,Central PS,Solved
+C0692,FIR202500692,2025-08-24,08:40,Murder,Hyderabad,Hitech City,52.0,Male,Gun,North PS,Solved
+C0693,FIR202400693,2024-03-03,17:45,Assault,Rajahmundry,Innespeta,38.0,Female,Stick,Central PS,Solved
+C0694,FIR202500694,2025-06-05,21:55,Assault,Vizianagaram,RTC Complex,32.0,Male,Stick,South PS,Pending
+C0695,FIR202400695,2024-10-20,14:55,Theft,Vijayawada,Benz Circle,47.0,Male,,Central PS,Pending
+C0696,FIR202400696,2024-01-10,19:20,Theft,Vizianagaram,RTC Complex,49.0,Male,,Central PS,Solved
+C0697,FIR202400697,2024-11-01,12:50,Assault,Visakhapatnam,Madhurawada,59.0,Male,Stick,Central PS,Pending
+C0698,FIR202400698,2024-09-30,04:45,Theft,Eluru,Ashok Nagar,31.0,Female,,South PS,Solved
+C0699,FIR202500699,2025-04-30,16:20,Assault,Hyderabad,Ameerpet,19.0,Male,Stick,Central PS,Solved
+C0700,FIR202400700,2024-09-23,13:15,Assault,Kakinada,Jagannaickpur,49.0,Female,Stick,Central PS,Pending
+C0701,FIR202400701,2024-03-31,03:25,Robbery,Anantapur,Sapthagiri Circle,57.0,Female,Knife,West PS,Pending
+C0702,FIR202400702,2024-11-22,12:35,Cyber Crime,Kakinada,Sarpavaram,33.0,Female,,Central PS,Solved
+C0703,FIR202500703,2025-10-31,20:35,Robbery,Kurnool,Nandyal Checkpost,38.0,Male,Knife,Central PS,Solved
+C0704,FIR202500704,2025-09-17,17:20,Assault,Eluru,Ashok Nagar,57.0,Female,Stick,Central PS,Pending
+C0705,FIR202500705,2025-06-23,15:20,Murder,Kadapa,YV Street,62.0,Female,Gun,East PS,Solved
+C0706,FIR202500706,2025-12-05,19:20,Murder,Nellore,Balaji Nagar,65.0,Male,Gun,North PS,Pending
+C0707,FIR202400707,2024-01-06,15:25,Cyber Crime,Kurnool,Budhawarapeta,62.0,Male,,South PS,Solved
+C0708,FIR202500708,2025-11-18,12:50,Cyber Crime,Vizianagaram,RTC Complex,58.0,Male,,North PS,Solved
+C0709,FIR202400709,2024-09-15,14:10,Theft,Rajahmundry,Innespeta,30.0,Female,,North PS,Solved
+C0710,FIR202400710,2024-03-10,06:10,Theft,Hyderabad,Kukatpally,63.0,Male,,West PS,Pending
+C0711,FIR202500711,2025-01-09,03:35,Robbery,Hyderabad,Ameerpet,57.0,Female,Knife,Central PS,Solved
+C0712,FIR202400712,2024-09-17,21:35,Cyber Crime,Vizianagaram,RTC Complex,70.0,Female,,West PS,Solved
+C0713,FIR202500713,2025-06-13,22:50,Assault,Tirupati,Bairagipatteda,55.0,Male,Stick,East PS,Pending
+C0714,FIR202400714,2024-05-19,03:15,Theft,Kakinada,Ramanayyapeta,18.0,Female,,East PS,Pending
+C0715,FIR202500715,2025-03-26,08:50,Theft,Nellore,Magunta Layout,50.0,Male,,Central PS,Pending
+C0716,FIR202400716,2024-09-03,14:00,Murder,Anantapur,Sapthagiri Circle,27.0,Female,Gun,North PS,Pending
+C0717,FIR202500717,2025-09-01,17:55,Assault,Rajahmundry,Innespeta,46.0,Female,Stick,East PS,Pending
+C0718,FIR202500718,2025-04-17,18:25,Robbery,Tirupati,Bairagipatteda,23.0,Female,Knife,North PS,Solved
+C0719,FIR202400719,2024-09-15,00:25,Theft,Anantapur,Sapthagiri Circle,51.0,Female,,East PS,Pending
+C0720,FIR202400720,2024-01-09,10:45,Cyber Crime,Hyderabad,Kukatpally,62.0,Male,,West PS,Pending
+C0721,FIR202400721,2024-08-20,20:50,Cyber Crime,Visakhapatnam,Gajuwaka,44.0,Female,,Central PS,Pending
+C0722,FIR202500722,2025-02-14,07:35,Theft,Vizianagaram,RTC Complex,38.0,Male,,East PS,Pending
+C0723,FIR202500723,2025-05-14,09:40,Assault,Hyderabad,Madhapur,64.0,Female,Stick,East PS,Solved
+C0724,FIR202400724,2024-10-01,03:20,Theft,Eluru,Ashok Nagar,44.0,Male,,North PS,Solved
+C0725,FIR202500725,2025-08-02,23:15,Assault,Anantapur,Sapthagiri Circle,18.0,Male,Stick,Central PS,Pending
+C0726,FIR202500726,2025-08-15,07:35,Theft,Visakhapatnam,Dwaraka Nagar,65.0,Male,,Central PS,Pending
+C0727,FIR202500727,2025-10-23,20:35,Cyber Crime,Nellore,Balaji Nagar,53.0,Male,,West PS,Solved
+C0728,FIR202500728,2025-10-24,16:50,Theft,Kakinada,Sarpavaram,44.0,Female,,South PS,Solved
+C0729,FIR202400729,2024-04-12,11:20,Murder,Kadapa,YV Street,24.0,Female,Gun,North PS,Solved
+C0730,FIR202400730,2024-10-20,08:45,Cyber Crime,Anantapur,Sapthagiri Circle,66.0,Female,,Central PS,Solved
+C0731,FIR202400731,2024-12-29,06:40,Cyber Crime,Guntur,Arundelpet,56.0,Male,,East PS,Solved
+C0732,FIR202500732,2025-06-25,21:30,Robbery,Kadapa,YV Street,57.0,Male,Knife,West PS,Pending
+C0733,FIR202500733,2025-10-29,11:40,Theft,Visakhapatnam,MVP Colony,65.0,Female,,South PS,Pending
+C0734,FIR202500734,2025-11-30,12:05,Assault,Ongole,Kurnool Road,55.0,Male,Stick,East PS,Solved
+C0735,FIR202400735,2024-11-28,19:00,Robbery,Visakhapatnam,Madhurawada,50.0,Male,Knife,South PS,Solved
+C0736,FIR202400736,2024-04-07,16:10,Robbery,Rajahmundry,Danavaipeta,51.0,Female,Knife,Central PS,Solved
+C0737,FIR202400737,2024-12-18,00:15,Murder,Nellore,Balaji Nagar,23.0,Male,Gun,South PS,Pending
+C0738,FIR202400738,2024-02-05,07:20,Theft,Vijayawada,Patamata,32.0,Male,,West PS,Pending
+C0739,FIR202500739,2025-12-18,11:40,Murder,Guntur,Brodipet,65.0,Female,Gun,West PS,Solved
+C0740,FIR202400740,2024-03-23,16:25,Cyber Crime,Tirupati,Bairagipatteda,35.0,Male,,Central PS,Pending
+C0741,FIR202500741,2025-03-23,21:20,Murder,Anantapur,Sapthagiri Circle,57.0,Female,Gun,North PS,Solved
+C0742,FIR202400742,2024-02-23,18:50,Theft,Kakinada,Jagannaickpur,18.0,Male,,Central PS,Solved
+C0743,FIR202400743,2024-07-05,02:15,Murder,Visakhapatnam,Madhurawada,35.0,Male,Gun,North PS,Pending
+C0744,FIR202400744,2024-08-17,13:05,Theft,Vijayawada,Gunadala,52.0,Male,,East PS,Pending
+C0745,FIR202400745,2024-06-30,13:35,Robbery,Rajahmundry,Danavaipeta,60.0,Female,Knife,West PS,Pending
+C0746,FIR202400746,2024-02-10,18:55,Assault,Guntur,Arundelpet,69.0,Female,Stick,Central PS,Solved
+C0747,FIR202400747,2024-06-22,21:55,Cyber Crime,Rajahmundry,Danavaipeta,29.0,Male,,South PS,Pending
+C0748,FIR202400748,2024-07-09,09:50,Theft,Eluru,Ashok Nagar,41.0,Male,,North PS,Solved
+C0749,FIR202500749,2025-06-01,01:35,Cyber Crime,Eluru,Ashok Nagar,43.0,Male,,South PS,Pending
+C0750,FIR202500750,2025-09-06,18:05,Assault,Anantapur,Sapthagiri Circle,34.0,Female,Stick,North PS,Solved
+C0751,FIR202400751,2024-11-25,12:05,Robbery,Hyderabad,Kukatpally,37.0,Female,Knife,East PS,Solved
+C0752,FIR202500752,2025-08-15,23:30,Murder,Kakinada,Jagannaickpur,62.0,Male,Gun,North PS,Pending
+C0753,FIR202500753,2025-10-30,19:55,Murder,Eluru,Ashok Nagar,59.0,Female,Gun,East PS,Pending
+C0754,FIR202500754,2025-03-07,23:40,Robbery,Kadapa,YV Street,53.0,Male,Knife,South PS,Solved
+C0755,FIR202500755,2025-05-17,09:00,Assault,Vijayawada,Kanuru,60.0,Female,Stick,East PS,Pending
+C0756,FIR202500756,2025-05-11,01:00,Murder,Anantapur,Sapthagiri Circle,65.0,Female,Gun,South PS,Solved
+C0757,FIR202400757,2024-04-13,23:30,Assault,Guntur,Arundelpet,28.0,Female,Stick,East PS,Pending
+C0758,FIR202500758,2025-12-07,19:50,Murder,Eluru,Ashok Nagar,49.0,Female,Gun,West PS,Solved
+C0759,FIR202500759,2025-04-04,13:55,Cyber Crime,Visakhapatnam,Dwaraka Nagar,49.0,Male,,East PS,Pending
+C0760,FIR202500760,2025-07-08,11:15,Assault,Ongole,Kurnool Road,53.0,Female,Stick,South PS,Pending
+C0761,FIR202500761,2025-06-05,07:15,Robbery,Kurnool,Nandyal Checkpost,37.0,Male,Knife,West PS,Pending
+C0762,FIR202500762,2025-01-17,00:35,Robbery,Guntur,Brodipet,51.0,Male,Knife,North PS,Pending
+C0763,FIR202400763,2024-08-13,08:20,Murder,Visakhapatnam,Dwaraka Nagar,44.0,Male,Gun,Central PS,Pending
+C0764,FIR202500764,2025-10-24,00:45,Murder,Nellore,Balaji Nagar,31.0,Male,Gun,Central PS,Solved
+C0765,FIR202400765,2024-04-23,04:50,Theft,Nellore,Balaji Nagar,35.0,Female,,South PS,Pending
+C0766,FIR202500766,2025-04-17,20:40,Cyber Crime,Kakinada,Sarpavaram,36.0,Female,,Central PS,Pending
+C0767,FIR202400767,2024-01-22,17:10,Robbery,Anantapur,Sapthagiri Circle,18.0,Female,Knife,Central PS,Solved
+C0768,FIR202400768,2024-04-03,10:55,Murder,Vijayawada,Patamata,32.0,Male,Gun,West PS,Pending
+C0769,FIR202500769,2025-05-17,14:15,Theft,Kadapa,YV Street,45.0,Male,,West PS,Pending
+C0770,FIR202500770,2025-08-13,01:40,Assault,Hyderabad,Madhapur,48.0,Male,Stick,West PS,Solved
+C0771,FIR202400771,2024-05-24,08:10,Cyber Crime,Anantapur,Sapthagiri Circle,53.0,Male,,East PS,Pending
+C0772,FIR202500772,2025-11-05,12:20,Murder,Kakinada,Ramanayyapeta,30.0,Female,Gun,West PS,Pending
+C0773,FIR202400773,2024-03-23,19:15,Cyber Crime,Kurnool,Nandyal Checkpost,69.0,Female,,South PS,Solved
+C0774,FIR202400774,2024-01-12,06:55,Murder,Kadapa,YV Street,58.0,Female,Gun,West PS,Solved
+C0775,FIR202500775,2025-10-11,22:10,Theft,Visakhapatnam,MVP Colony,56.0,Male,,West PS,Pending
+C0776,FIR202400776,2024-09-11,08:35,Cyber Crime,Vijayawada,Gunadala,34.0,Male,,West PS,Solved
+C0777,FIR202400777,2024-01-07,21:25,Theft,Ongole,Kurnool Road,59.0,Female,,West PS,Solved
+C0778,FIR202500778,2025-07-08,01:45,Assault,Ongole,Kurnool Road,65.0,Male,Stick,Central PS,Pending
+C0779,FIR202400779,2024-03-09,16:20,Robbery,Kakinada,Jagannaickpur,44.0,Male,Knife,North PS,Solved
+C0780,FIR202400780,2024-01-13,22:25,Cyber Crime,Vizianagaram,RTC Complex,32.0,Male,,East PS,Solved
+C0781,FIR202400781,2024-08-17,01:00,Theft,Anantapur,Sapthagiri Circle,58.0,Female,,West PS,Solved
+C0782,FIR202500782,2025-10-24,22:25,Murder,Kakinada,Jagannaickpur,45.0,Male,Gun,South PS,Pending
+C0783,FIR202500783,2025-11-06,02:05,Assault,Eluru,Ashok Nagar,41.0,Male,Stick,West PS,Pending
+C0784,FIR202500784,2025-11-17,06:35,Murder,Ongole,Kurnool Road,42.0,Female,Gun,South PS,Solved
+C0785,FIR202500785,2025-07-08,18:55,Theft,Kadapa,YV Street,33.0,Female,,West PS,Pending
+C0786,FIR202500786,2025-01-18,20:00,Assault,Visakhapatnam,Gajuwaka,20.0,Male,Stick,East PS,Solved
+C0787,FIR202500787,2025-09-20,08:50,Theft,Kadapa,YV Street,51.0,Male,,Central PS,Solved
+C0788,FIR202500788,2025-03-14,05:10,Murder,Kadapa,YV Street,42.0,Male,Gun,West PS,Solved
+C0789,FIR202400789,2024-10-30,23:30,Murder,Ongole,Kurnool Road,65.0,Male,Gun,South PS,Pending
+C0790,FIR202400790,2024-06-25,17:25,Assault,Kurnool,Nandyal Checkpost,55.0,Male,Stick,West PS,Pending
+C0791,FIR202400791,2024-05-24,20:50,Assault,Kurnool,Budhawarapeta,55.0,Male,Stick,East PS,Solved
+C0792,FIR202400792,2024-12-22,13:35,Theft,Vijayawada,Patamata,48.0,Female,,North PS,Solved
+C0793,FIR202500793,2025-08-13,04:35,Robbery,Vijayawada,Patamata,20.0,Female,Knife,West PS,Pending
+C0794,FIR202400794,2024-08-14,10:05,Murder,Nellore,Balaji Nagar,23.0,Female,Gun,West PS,Solved
+C0795,FIR202500795,2025-08-25,03:25,Theft,Tirupati,Alipiri,46.0,Male,,West PS,Solved
+C0796,FIR202400796,2024-08-23,19:40,Theft,Eluru,Ashok Nagar,65.0,Male,,Central PS,Pending
+C0797,FIR202500797,2025-03-12,01:15,Cyber Crime,Rajahmundry,Innespeta,61.0,Female,,West PS,Pending
+C0798,FIR202500798,2025-12-15,00:15,Robbery,Hyderabad,Madhapur,18.0,Female,Knife,East PS,Solved
+C0799,FIR202400799,2024-08-24,21:00,Robbery,Rajahmundry,Innespeta,68.0,Male,Knife,North PS,Solved
+C0800,FIR202400800,2024-07-13,10:20,Assault,Vizianagaram,RTC Complex,49.0,Female,Stick,East PS,Solved
+C0801,FIR202500801,2025-08-12,22:50,Murder,Hyderabad,Madhapur,62.0,Male,Gun,South PS,Solved
+C0802,FIR202400802,2024-10-05,13:40,Murder,Visakhapatnam,Madhurawada,66.0,Male,Gun,West PS,Pending
+C0803,FIR202400803,2024-02-16,09:35,Murder,Vijayawada,Benz Circle,57.0,Female,Gun,Central PS,Solved
+C0804,FIR202400804,2024-11-14,13:15,Assault,Eluru,Ashok Nagar,38.0,Female,Stick,Central PS,Solved
+C0805,FIR202400805,2024-02-08,18:20,Theft,Kadapa,YV Street,46.0,Female,,North PS,Pending
+C0806,FIR202400806,2024-11-24,15:20,Murder,Eluru,Ashok Nagar,52.0,Female,Gun,Central PS,Solved
+C0807,FIR202400807,2024-08-06,21:50,Cyber Crime,Ongole,Kurnool Road,55.0,Female,,North PS,Pending
+C0808,FIR202400808,2024-02-02,13:20,Robbery,Guntur,Lakshmipuram,46.0,Female,Knife,South PS,Pending
+C0809,FIR202400809,2024-09-23,06:50,Murder,Tirupati,Bairagipatteda,66.0,Female,Gun,West PS,Solved
+C0810,FIR202400810,2024-10-29,22:20,Assault,Hyderabad,Begumpet,54.0,Male,Stick,Central PS,Solved
+C0811,FIR202400811,2024-08-01,11:10,Cyber Crime,Ongole,Kurnool Road,63.0,Male,,East PS,Pending
+C0812,FIR202500812,2025-04-05,10:30,Robbery,Visakhapatnam,Madhurawada,49.0,Male,Knife,West PS,Solved
+C0813,FIR202400813,2024-08-12,03:40,Theft,Anantapur,Sapthagiri Circle,64.0,Male,,North PS,Solved
+C0814,FIR202400814,2024-10-12,05:15,Robbery,Kurnool,Nandyal Checkpost,67.0,Female,Knife,West PS,Pending
+C0815,FIR202500815,2025-04-29,14:45,Murder,Rajahmundry,Innespeta,56.0,Male,Gun,West PS,Pending
+C0816,FIR202500816,2025-03-25,13:00,Cyber Crime,Vizianagaram,RTC Complex,61.0,Female,,South PS,Pending
+C0817,FIR202400817,2024-02-15,00:15,Robbery,Tirupati,Alipiri,19.0,Male,Knife,East PS,Solved
+C0818,FIR202400818,2024-03-04,02:00,Robbery,Nellore,Balaji Nagar,25.0,Female,Knife,Central PS,Solved
+C0819,FIR202500819,2025-04-14,20:05,Cyber Crime,Kakinada,Sarpavaram,55.0,Male,,South PS,Pending
+C0820,FIR202400820,2024-11-17,14:50,Robbery,Nellore,Magunta Layout,65.0,Male,Knife,East PS,Pending
+C0821,FIR202500821,2025-08-03,09:15,Robbery,Kadapa,YV Street,62.0,Female,Knife,West PS,Solved
+C0822,FIR202500822,2025-06-07,07:00,Theft,Kadapa,YV Street,47.0,Female,,South PS,Solved
+C0823,FIR202500823,2025-09-29,15:10,Murder,Hyderabad,Madhapur,39.0,Male,Gun,South PS,Solved
+C0824,FIR202500824,2025-01-04,03:10,Murder,Visakhapatnam,Dwaraka Nagar,45.0,Female,Gun,South PS,Solved
+C0825,FIR202400825,2024-02-09,19:50,Assault,Visakhapatnam,Dwaraka Nagar,37.0,Male,Stick,North PS,Pending
+C0826,FIR202400826,2024-12-18,07:35,Murder,Eluru,Ashok Nagar,18.0,Male,Gun,West PS,Pending
+C0827,FIR202400827,2024-09-30,06:55,Assault,Tirupati,Alipiri,27.0,Male,Stick,South PS,Pending
+C0828,FIR202400828,2024-09-03,11:20,Murder,Rajahmundry,Danavaipeta,29.0,Female,Gun,Central PS,Pending
+C0829,FIR202400829,2024-04-10,17:40,Cyber Crime,Kurnool,Budhawarapeta,36.0,Female,,South PS,Pending
+C0830,FIR202500830,2025-11-15,03:30,Assault,Kadapa,YV Street,51.0,Female,Stick,Central PS,Solved
+C0831,FIR202500831,2025-11-24,18:20,Cyber Crime,Vizianagaram,RTC Complex,58.0,Female,,West PS,Pending
+C0832,FIR202500832,2025-09-25,20:45,Robbery,Tirupati,Alipiri,31.0,Male,Knife,West PS,Pending
+C0833,FIR202500833,2025-02-28,00:20,Theft,Kakinada,Jagannaickpur,45.0,Female,,East PS,Pending
+C0834,FIR202400834,2024-11-12,23:35,Cyber Crime,Kadapa,YV Street,33.0,Male,,South PS,Solved
+C0835,FIR202400835,2024-08-03,07:55,Assault,Eluru,Ashok Nagar,35.0,Male,Stick,Central PS,Pending
+C0836,FIR202400836,2024-07-25,10:00,Murder,Eluru,Ashok Nagar,26.0,Female,Gun,West PS,Pending
+C0837,FIR202400837,2024-10-01,19:05,Murder,Kadapa,YV Street,35.0,Male,Gun,West PS,Pending
+C0838,FIR202400838,2024-05-03,12:00,Robbery,Nellore,Balaji Nagar,38.0,Female,Knife,West PS,Solved
+C0839,FIR202400839,2024-12-25,11:20,Assault,Kadapa,YV Street,62.0,Female,Stick,Central PS,Solved
+C0840,FIR202400840,2024-01-06,21:30,Robbery,Anantapur,Sapthagiri Circle,20.0,Male,Knife,East PS,Solved
+C0841,FIR202400841,2024-10-31,23:55,Robbery,Ongole,Kurnool Road,28.0,Female,Knife,East PS,Solved
+C0842,FIR202500842,2025-02-18,14:55,Theft,Guntur,Arundelpet,31.0,Male,,East PS,Solved
+C0843,FIR202400843,2024-02-06,09:10,Murder,Kurnool,Nandyal Checkpost,62.0,Male,Gun,South PS,Solved
+C0844,FIR202500844,2025-06-14,19:05,Robbery,Guntur,Brodipet,20.0,Female,Knife,South PS,Solved
+C0845,FIR202500845,2025-04-07,05:45,Murder,Ongole,Kurnool Road,48.0,Female,Gun,East PS,Pending
+C0846,FIR202500846,2025-06-26,20:50,Murder,Nellore,Balaji Nagar,47.0,Female,Gun,West PS,Solved
+C0847,FIR202500847,2025-03-29,18:40,Robbery,Anantapur,Sapthagiri Circle,52.0,Female,Knife,West PS,Solved
+C0848,FIR202400848,2024-04-05,00:55,Theft,Eluru,Ashok Nagar,19.0,Female,,West PS,Solved
+C0849,FIR202500849,2025-08-27,07:55,Murder,Vizianagaram,RTC Complex,55.0,Male,Gun,Central PS,Pending
+C0850,FIR202400850,2024-04-14,04:05,Robbery,Kadapa,YV Street,24.0,Male,Knife,North PS,Solved
+C0851,FIR202500851,2025-09-17,06:50,Murder,Ongole,Kurnool Road,48.0,Male,Gun,East PS,Solved
+C0852,FIR202500852,2025-10-26,14:25,Murder,Kadapa,YV Street,38.0,Male,Gun,Central PS,Pending
+C0853,FIR202500853,2025-09-09,03:20,Cyber Crime,Eluru,Ashok Nagar,64.0,Female,,Central PS,Solved
+C0854,FIR202400854,2024-08-02,19:40,Theft,Kurnool,Nandyal Checkpost,39.0,Male,,West PS,Solved
+C0855,FIR202400855,2024-01-21,19:55,Theft,Tirupati,Bairagipatteda,45.0,Female,,North PS,Pending
+C0856,FIR202500856,2025-10-22,06:15,Robbery,Visakhapatnam,Madhurawada,53.0,Male,Knife,North PS,Pending
+C0857,FIR202500857,2025-02-06,17:40,Robbery,Visakhapatnam,Seethammadhara,60.0,Female,Knife,South PS,Pending
+C0858,FIR202500858,2025-09-13,04:20,Theft,Tirupati,Alipiri,23.0,Female,,East PS,Pending
+C0859,FIR202500859,2025-06-16,01:05,Theft,Kakinada,Ramanayyapeta,61.0,Female,,North PS,Solved
+C0860,FIR202500860,2025-09-13,03:45,Cyber Crime,Tirupati,Alipiri,65.0,Female,,West PS,Pending
+C0861,FIR202400861,2024-03-05,21:50,Assault,Eluru,Ashok Nagar,30.0,Female,Stick,East PS,Pending
+C0862,FIR202400862,2024-10-24,22:25,Murder,Vijayawada,Benz Circle,19.0,Female,Gun,South PS,Solved
+C0863,FIR202500863,2025-10-28,13:30,Murder,Kurnool,Budhawarapeta,42.0,Male,Gun,Central PS,Pending
+C0864,FIR202500864,2025-10-11,23:45,Murder,Eluru,Ashok Nagar,24.0,Male,Gun,East PS,Pending
+C0865,FIR202500865,2025-10-23,11:30,Assault,Rajahmundry,Danavaipeta,43.0,Female,Stick,Central PS,Pending
+C0866,FIR202500866,2025-04-21,14:50,Theft,Anantapur,Sapthagiri Circle,46.0,Male,,North PS,Solved
+C0867,FIR202500867,2025-11-13,01:00,Theft,Vizianagaram,RTC Complex,26.0,Female,,Central PS,Pending
+C0868,FIR202500868,2025-04-11,07:20,Robbery,Ongole,Kurnool Road,36.0,Female,Knife,West PS,Solved
+C0869,FIR202400869,2024-03-15,20:55,Cyber Crime,Ongole,Kurnool Road,37.0,Male,,West PS,Pending
+C0870,FIR202400870,2024-01-03,13:15,Murder,Kurnool,Nandyal Checkpost,48.0,Male,Gun,East PS,Solved
+C0871,FIR202500871,2025-07-10,22:00,Theft,Hyderabad,Ameerpet,70.0,Female,,North PS,Solved
+C0872,FIR202500872,2025-05-16,11:25,Robbery,Kurnool,Budhawarapeta,51.0,Male,Knife,South PS,Pending
+C0873,FIR202500873,2025-10-03,07:40,Robbery,Guntur,Brodipet,70.0,Male,Knife,Central PS,Pending
+C0874,FIR202500874,2025-02-09,20:25,Assault,Hyderabad,Madhapur,52.0,Male,Stick,North PS,Pending
+C0875,FIR202400875,2024-09-24,17:20,Cyber Crime,Vizianagaram,RTC Complex,21.0,Female,,South PS,Pending
+C0876,FIR202500876,2025-06-10,19:10,Theft,Kakinada,Sarpavaram,32.0,Female,,East PS,Pending
+C0877,FIR202500877,2025-04-01,08:55,Assault,Vijayawada,Kanuru,23.0,Female,Stick,Central PS,Solved
+C0878,FIR202400878,2024-05-22,10:45,Cyber Crime,Kadapa,YV Street,54.0,Female,,West PS,Pending
+C0879,FIR202500879,2025-02-05,10:35,Assault,Kakinada,Ramanayyapeta,31.0,Male,Stick,Central PS,Solved
+C0880,FIR202500880,2025-04-28,09:05,Cyber Crime,Hyderabad,Madhapur,41.0,Male,,Central PS,Solved
+C0881,FIR202400881,2024-04-16,05:15,Assault,Eluru,Ashok Nagar,62.0,Female,Stick,East PS,Solved
+C0882,FIR202400882,2024-05-31,04:45,Robbery,Anantapur,Sapthagiri Circle,52.0,Male,Knife,South PS,Solved
+C0883,FIR202400883,2024-02-21,15:45,Assault,Eluru,Ashok Nagar,49.0,Male,Stick,East PS,Solved
+C0884,FIR202500884,2025-09-26,22:15,Cyber Crime,Vijayawada,Kanuru,59.0,Male,,West PS,Solved
+C0885,FIR202500885,2025-07-29,17:25,Cyber Crime,Nellore,Balaji Nagar,70.0,Female,,West PS,Pending
+C0886,FIR202500886,2025-05-05,16:35,Cyber Crime,Guntur,Brodipet,23.0,Male,,North PS,Solved
+C0887,FIR202400887,2024-03-24,17:20,Robbery,Tirupati,Bairagipatteda,64.0,Male,Knife,Central PS,Solved
+C0888,FIR202500888,2025-04-18,18:20,Theft,Kakinada,Ramanayyapeta,41.0,Male,,North PS,Solved
+C0889,FIR202400889,2024-08-22,00:25,Theft,Eluru,Ashok Nagar,57.0,Female,,Central PS,Pending
+C0890,FIR202400890,2024-11-13,11:05,Cyber Crime,Kadapa,YV Street,19.0,Female,,South PS,Pending
+C0891,FIR202400891,2024-08-22,11:00,Robbery,Visakhapatnam,Dwaraka Nagar,69.0,Female,Knife,South PS,Solved
+C0892,FIR202400892,2024-12-30,04:50,Murder,Kakinada,Jagannaickpur,69.0,Male,Gun,West PS,Solved
+C0893,FIR202500893,2025-01-29,02:30,Robbery,Kadapa,YV Street,64.0,Female,Knife,North PS,Pending
+C0894,FIR202500894,2025-03-15,23:05,Theft,Kakinada,Ramanayyapeta,56.0,Male,,East PS,Pending
+C0895,FIR202500895,2025-01-31,17:00,Assault,Guntur,Arundelpet,59.0,Female,Stick,Central PS,Solved
+C0896,FIR202500896,2025-04-04,06:00,Murder,Eluru,Ashok Nagar,30.0,Female,Gun,Central PS,Solved
+C0897,FIR202400897,2024-10-22,17:40,Theft,Visakhapatnam,Dwaraka Nagar,29.0,Male,,East PS,Pending
+C0898,FIR202500898,2025-03-09,09:00,Theft,Hyderabad,Begumpet,23.0,Male,,Central PS,Pending
+C0899,FIR202500899,2025-05-01,05:35,Theft,Eluru,Ashok Nagar,38.0,Female,,North PS,Solved
+C0900,FIR202400900,2024-10-25,00:10,Assault,Hyderabad,Hitech City,31.0,Male,Stick,West PS,Solved
+C0901,FIR202400901,2024-03-10,01:30,Murder,Rajahmundry,Danavaipeta,49.0,Male,Gun,South PS,Pending
+C0902,FIR202400902,2024-12-09,22:50,Assault,Tirupati,Bairagipatteda,63.0,Female,Stick,East PS,Pending
+C0903,FIR202400903,2024-05-10,16:05,Cyber Crime,Kakinada,Ramanayyapeta,62.0,Male,,Central PS,Solved
+C0904,FIR202500904,2025-02-25,12:50,Murder,Vizianagaram,RTC Complex,25.0,Female,Gun,West PS,Solved
+C0905,FIR202500905,2025-04-12,21:55,Robbery,Kadapa,YV Street,38.0,Male,Knife,South PS,Solved
+C0906,FIR202500906,2025-12-19,22:40,Assault,Kadapa,YV Street,18.0,Male,Stick,Central PS,Pending
+C0907,FIR202400907,2024-01-09,05:50,Cyber Crime,Tirupati,Bairagipatteda,47.0,Female,,East PS,Pending
+C0908,FIR202400908,2024-12-12,17:50,Theft,Eluru,Ashok Nagar,41.0,Female,,East PS,Solved
+C0909,FIR202500909,2025-08-14,07:40,Assault,Hyderabad,Madhapur,23.0,Female,Stick,South PS,Solved
+C0910,FIR202400910,2024-12-09,00:50,Theft,Vizianagaram,RTC Complex,61.0,Female,,South PS,Solved
+C0911,FIR202500911,2025-01-22,23:30,Cyber Crime,Tirupati,Bairagipatteda,61.0,Male,,South PS,Solved
+C0912,FIR202500912,2025-05-18,04:35,Cyber Crime,Hyderabad,LB Nagar,50.0,Male,,South PS,Solved
+C0913,FIR202500913,2025-06-08,14:25,Theft,Ongole,Kurnool Road,63.0,Male,,South PS,Pending
+C0914,FIR202400914,2024-07-22,03:45,Cyber Crime,Nellore,Balaji Nagar,24.0,Female,,East PS,Solved
+C0915,FIR202500915,2025-08-05,16:00,Murder,Anantapur,Sapthagiri Circle,29.0,Female,Gun,East PS,Pending
+C0916,FIR202500916,2025-07-17,22:05,Cyber Crime,Kurnool,Budhawarapeta,29.0,Male,,West PS,Pending
+C0917,FIR202500917,2025-06-02,07:30,Assault,Kadapa,YV Street,40.0,Male,Stick,South PS,Solved
+C0918,FIR202400918,2024-08-13,03:30,Murder,Kurnool,Nandyal Checkpost,65.0,Female,Gun,West PS,Solved
+C0919,FIR202400919,2024-09-06,21:20,Assault,Kakinada,Ramanayyapeta,42.0,Male,Stick,West PS,Pending
+C0920,FIR202500920,2025-11-17,17:50,Cyber Crime,Rajahmundry,Danavaipeta,34.0,Female,,East PS,Solved
+C0921,FIR202500921,2025-01-18,14:45,Cyber Crime,Tirupati,Bairagipatteda,19.0,Male,,North PS,Solved
+C0922,FIR202500922,2025-03-20,01:35,Assault,Guntur,Brodipet,58.0,Female,Stick,Central PS,Solved
+C0923,FIR202500923,2025-04-11,19:15,Robbery,Vijayawada,Gunadala,49.0,Male,Knife,East PS,Solved
+C0924,FIR202400924,2024-09-08,08:05,Cyber Crime,Tirupati,Alipiri,27.0,Male,,West PS,Solved
+C0925,FIR202500925,2025-02-18,12:05,Murder,Hyderabad,Kukatpally,25.0,Male,Gun,South PS,Pending
+C0926,FIR202500926,2025-03-18,15:45,Robbery,Rajahmundry,Innespeta,23.0,Male,Knife,East PS,Pending
+C0927,FIR202500927,2025-08-24,13:25,Murder,Ongole,Kurnool Road,23.0,Male,Gun,East PS,Pending
+C0928,FIR202500928,2025-11-29,18:35,Assault,Vizianagaram,RTC Complex,51.0,Female,Stick,North PS,Pending
+C0929,FIR202400929,2024-07-13,03:50,Cyber Crime,Kurnool,Nandyal Checkpost,52.0,Male,,North PS,Pending
+C0930,FIR202500930,2025-09-06,18:00,Theft,Visakhapatnam,Seethammadhara,63.0,Female,,West PS,Pending
+C0931,FIR202400931,2024-02-29,23:20,Assault,Kurnool,Budhawarapeta,19.0,Female,Stick,Central PS,Solved
+C0932,FIR202500932,2025-02-16,21:05,Assault,Ongole,Kurnool Road,41.0,Female,Stick,East PS,Solved
+C0933,FIR202500933,2025-10-19,02:25,Theft,Eluru,Ashok Nagar,30.0,Male,,West PS,Solved
+C0934,FIR202400934,2024-12-29,10:55,Robbery,Kakinada,Sarpavaram,53.0,Female,Knife,Central PS,Pending
+C0935,FIR202500935,2025-09-18,16:20,Cyber Crime,Vijayawada,Kanuru,52.0,Female,,East PS,Pending
+C0936,FIR202400936,2024-09-02,15:30,Theft,Rajahmundry,Innespeta,45.0,Male,,Central PS,Pending
+C0937,FIR202500937,2025-11-23,23:45,Murder,Hyderabad,Gachibowli,54.0,Female,Gun,South PS,Solved
+C0938,FIR202500938,2025-07-11,03:25,Murder,Nellore,Balaji Nagar,28.0,Female,Gun,East PS,Pending
+C0939,FIR202400939,2024-01-22,21:25,Robbery,Hyderabad,Ameerpet,46.0,Male,Knife,North PS,Solved
+C0940,FIR202400940,2024-12-22,10:05,Assault,Eluru,Ashok Nagar,68.0,Female,Stick,West PS,Solved
+C0941,FIR202500941,2025-11-13,06:50,Theft,Eluru,Ashok Nagar,47.0,Male,,West PS,Pending
+C0942,FIR202500942,2025-01-26,10:40,Assault,Rajahmundry,Danavaipeta,61.0,Male,Stick,South PS,Pending
+C0943,FIR202400943,2024-11-22,08:20,Assault,Vizianagaram,RTC Complex,49.0,Male,Stick,North PS,Pending
+C0944,FIR202400944,2024-10-13,02:10,Assault,Rajahmundry,Innespeta,29.0,Male,Stick,East PS,Pending
+C0945,FIR202500945,2025-12-29,02:50,Theft,Kakinada,Sarpavaram,63.0,Female,,North PS,Pending
+C0946,FIR202400946,2024-05-02,10:30,Theft,Hyderabad,Madhapur,35.0,Female,,East PS,Solved
+C0947,FIR202400947,2024-11-17,09:05,Robbery,Anantapur,Sapthagiri Circle,64.0,Female,Knife,West PS,Pending
+C0948,FIR202500948,2025-09-28,19:40,Cyber Crime,Visakhapatnam,Seethammadhara,21.0,Male,,North PS,Pending
+C0949,FIR202400949,2024-02-29,11:15,Theft,Ongole,Kurnool Road,37.0,Female,,West PS,Solved
+C0950,FIR202400950,2024-09-03,14:15,Murder,Anantapur,Sapthagiri Circle,22.0,Female,Gun,East PS,Solved
+C0951,FIR202400951,2024-05-16,14:10,Robbery,Kakinada,Ramanayyapeta,22.0,Female,Knife,North PS,Solved
+C0952,FIR202500952,2025-04-29,23:50,Murder,Guntur,Lakshmipuram,58.0,Female,Gun,West PS,Pending
+C0953,FIR202400953,2024-10-22,04:40,Murder,Vizianagaram,RTC Complex,45.0,Female,Gun,Central PS,Pending
+C0954,FIR202400954,2024-06-30,05:15,Robbery,Anantapur,Sapthagiri Circle,69.0,Male,Knife,North PS,Solved
+C0955,FIR202400955,2024-07-16,03:20,Theft,Tirupati,Bairagipatteda,53.0,Female,,East PS,Pending
+C0956,FIR202500956,2025-04-18,18:10,Theft,Vizianagaram,RTC Complex,44.0,Female,,North PS,Solved
+C0957,FIR202500957,2025-07-01,13:45,Murder,Anantapur,Sapthagiri Circle,58.0,Female,Gun,East PS,Pending
+C0958,FIR202400958,2024-09-10,22:45,Murder,Hyderabad,Kukatpally,18.0,Male,Gun,South PS,Solved
+C0959,FIR202400959,2024-10-04,02:25,Theft,Kadapa,YV Street,23.0,Female,,Central PS,Pending
+C0960,FIR202400960,2024-09-15,03:10,Theft,Eluru,Ashok Nagar,47.0,Female,,North PS,Pending
+C0961,FIR202400961,2024-04-10,00:55,Theft,Anantapur,Sapthagiri Circle,22.0,Female,,South PS,Solved
+C0962,FIR202400962,2024-10-17,02:15,Robbery,Anantapur,Sapthagiri Circle,48.0,Male,Knife,South PS,Solved
+C0963,FIR202500963,2025-09-26,10:25,Cyber Crime,Eluru,Ashok Nagar,68.0,Female,,North PS,Solved
+C0964,FIR202400964,2024-11-25,11:10,Robbery,Guntur,Lakshmipuram,18.0,Male,Knife,West PS,Solved
+C0965,FIR202400965,2024-06-29,14:00,Cyber Crime,Hyderabad,Gachibowli,44.0,Female,,Central PS,Solved
+C0966,FIR202500966,2025-08-31,21:10,Assault,Ongole,Kurnool Road,64.0,Female,Stick,South PS,Pending
+C0967,FIR202400967,2024-09-17,12:45,Robbery,Rajahmundry,Innespeta,69.0,Male,Knife,South PS,Pending
+C0968,FIR202500968,2025-03-22,04:05,Assault,Vijayawada,Benz Circle,55.0,Female,Stick,Central PS,Pending
+C0969,FIR202500969,2025-03-28,09:45,Assault,Guntur,Arundelpet,46.0,Male,Stick,Central PS,Pending
+C0970,FIR202400970,2024-01-15,09:05,Robbery,Tirupati,Bairagipatteda,35.0,Male,Knife,West PS,Pending
+C0971,FIR202400971,2024-10-24,11:55,Cyber Crime,Kakinada,Ramanayyapeta,48.0,Female,,Central PS,Pending
+C0972,FIR202400972,2024-08-23,18:00,Murder,Guntur,Brodipet,29.0,Male,Gun,South PS,Pending
+C0973,FIR202500973,2025-06-02,14:10,Assault,Vijayawada,Gunadala,63.0,Female,Stick,Central PS,Pending
+C0974,FIR202500974,2025-05-18,06:50,Theft,Kurnool,Budhawarapeta,32.0,Male,,East PS,Solved
+C0975,FIR202400975,2024-04-20,18:00,Assault,Nellore,Magunta Layout,43.0,Male,Stick,East PS,Solved
+C0976,FIR202400976,2024-02-15,19:35,Assault,Tirupati,Alipiri,40.0,Male,Stick,North PS,Solved
+C0977,FIR202500977,2025-10-08,03:45,Theft,Nellore,Balaji Nagar,65.0,Female,,North PS,Pending
+C0978,FIR202500978,2025-08-02,23:30,Assault,Hyderabad,Ameerpet,32.0,Female,Stick,South PS,Pending
+C0979,FIR202400979,2024-07-27,21:10,Theft,Kurnool,Budhawarapeta,50.0,Female,,Central PS,Pending
+C0980,FIR202400980,2024-05-22,02:05,Robbery,Anantapur,Sapthagiri Circle,23.0,Female,Knife,West PS,Pending
+C0981,FIR202400981,2024-03-16,15:40,Murder,Rajahmundry,Innespeta,41.0,Male,Gun,East PS,Pending
+C0982,FIR202500982,2025-10-03,12:05,Theft,Anantapur,Sapthagiri Circle,30.0,Female,,South PS,Pending
+C0983,FIR202400983,2024-05-15,11:50,Assault,Kadapa,YV Street,28.0,Female,Stick,North PS,Solved
+C0984,FIR202500984,2025-04-27,06:35,Assault,Nellore,Balaji Nagar,67.0,Female,Stick,North PS,Pending
+C0985,FIR202400985,2024-02-26,11:15,Robbery,Ongole,Kurnool Road,66.0,Female,Knife,Central PS,Solved
+C0986,FIR202500986,2025-04-04,10:15,Theft,Eluru,Ashok Nagar,18.0,Female,,East PS,Solved
+C0987,FIR202400987,2024-04-23,12:05,Theft,Anantapur,Sapthagiri Circle,46.0,Female,,Central PS,Solved
+C0988,FIR202500988,2025-01-04,12:05,Cyber Crime,Kurnool,Budhawarapeta,63.0,Female,,Central PS,Pending
+C0989,FIR202400989,2024-04-20,01:00,Assault,Tirupati,Alipiri,47.0,Male,Stick,West PS,Solved
+C0990,FIR202400990,2024-02-01,14:30,Assault,Visakhapatnam,MVP Colony,41.0,Male,Stick,West PS,Pending
+C0991,FIR202400991,2024-06-02,11:10,Assault,Nellore,Balaji Nagar,27.0,Female,Stick,West PS,Pending
+C0992,FIR202500992,2025-06-24,05:40,Robbery,Tirupati,Alipiri,67.0,Female,Knife,South PS,Solved
+C0993,FIR202500993,2025-12-08,09:35,Murder,Kadapa,YV Street,66.0,Male,Gun,North PS,Pending
+C0994,FIR202400994,2024-10-12,18:30,Murder,Visakhapatnam,Madhurawada,44.0,Male,Gun,South PS,Solved
+C0995,FIR202500995,2025-10-11,21:15,Cyber Crime,Ongole,Kurnool Road,20.0,Male,,North PS,Solved
+C0996,FIR202500996,2025-03-08,21:25,Cyber Crime,Guntur,Lakshmipuram,22.0,Male,,West PS,Pending
+C0997,FIR202500997,2025-04-23,22:40,Murder,Tirupati,Alipiri,27.0,Female,Gun,Central PS,Solved
+C0998,FIR202500998,2025-03-02,05:10,Robbery,Tirupati,Bairagipatteda,20.0,Male,Knife,East PS,Pending
+C0999,FIR202400999,2024-09-30,22:20,Robbery,Rajahmundry,Innespeta,43.0,Female,Knife,East PS,Solved
+C1000,FIR202401000,2024-02-12,06:15,Theft,Anantapur,Sapthagiri Circle,54.0,Male,,East PS,Solved
+,FIR20260905164226,2026-09-12,,Robbery,,Hyderabad,,,,,Pending
